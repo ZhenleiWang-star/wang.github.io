@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -20,9 +20,8 @@ I am interested in the counterfactual nature of logged bandit feedback obtaied f
 - Debiasing recommender systems
 - Unbiased Learning-to-Rank
 - Causal Inference
-- Uplift Modeling
 
 # News
--
--
-- 
+-  
+-  
+-  
