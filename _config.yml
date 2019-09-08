@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuta Saito / Yuta Saito's website"
+title                    : "Yuta Saito"
 title_separator          : "-"
 name                     : &name "Yuta Saito"
 description              : &description "Forth year undergraduate student at Tokyo Institute of Technology"
