@@ -4,19 +4,13 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "CV"
+  #   url: /cv/
+
+  - title: "Blog"
+    url: /https://usaito.hatenablog.com/
+
+  - title: "Qitta"
+    url: /https://qiita.com/usaito/
