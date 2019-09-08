@@ -6,24 +6,25 @@ author_profile: true
 ---
 
 ## Preprints
-- __Yuta Saito__ .
-**Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
-[[arxiv]]()  
+- **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
+__Yuta Saito__.   
+[[arxiv]()]  
 
-- __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
-**Relevance Matrix Factorization**  
-[[arxiv]]()  
+- **Relevance Matrix Factorization**  
+__Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
+[[arxiv]()]  
 
-- __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
-**Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatmetns**    
-[[arxiv]]()  
+- **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatmetns**    
+__Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
+[[arxiv]()]  
 
 ## International Conference and Workshop Papers
-- __Yuta Saito__ and Shota Yasui.  
-**Counterfactual Cross-Validation**  
-ACM Recsys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.
+-  **Counterfactual Cross-Validation**  
+__Yuta Saito__ and Shota Yasui.  
+ACM Recsys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.  
+[[arxiv]()] [poster]
 
-- __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
-**Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
+-  **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
+__Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
  In Proceedings of the SIAM International Conference on Data Mining (SDM19), Calgary, Alberta, Canada, May 2-4, 2019.  
- [[link]](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.53)
+ [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.53)] [poster]
