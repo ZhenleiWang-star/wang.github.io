@@ -16,6 +16,10 @@ __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakat
 
 - **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatmetns**    
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
+[[pdf]()]  
+
+-  **Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data**  
+__Yuta Saito__ and Shota Yasui.  
 [[arxiv]()]  
 
 ## International Conference and Workshop Papers
