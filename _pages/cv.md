@@ -17,43 +17,48 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research assistant
+  * Tokyo Institute of Technology
+  * Researching on weakly-supervised learning.
+  * Supervisor: Kazuhide Nakata
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Internship Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Research Intern
+  - Cyberagent, Inc. AI Lab ADEcon Team
+
+- Research Intern
+  - So-net Media Netowrks Corp. a.i lab.
+
+- Data Science Intern
+  - CancerScan
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+International Conference and Workshop Papers
+
+**2019**  
+- __Yuta Saito__ and Shota Yasui.  
+**Counterfactual Cross-Validation**  
+ACM Recsys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.
+
+- __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
+**Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
+ In Proceedings of the SIAM International Conference on Data Mining (SDM19), Calgary, Alberta, Canada, May 2-4, 2019.  
+ [link](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.53)  
+
+
+**Preprints**  
+- __Yuta Saito__  
+**Eliminating Bias in Recommender Systems via Pseudo-Labeling**      
+
+
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+
+Other professional activities
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-
