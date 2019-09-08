@@ -10,7 +10,7 @@ main:
   #   url: /cv/
 
   - title: "Blog"
-    url: /https://usaito.hatenablog.com/
+    url: https://usaito.hatenablog.com/
 
   - title: "Qitta"
-    url: /https://qiita.com/usaito/
+    url: https://qiita.com/usaito/
