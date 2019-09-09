@@ -26,7 +26,7 @@ __Yuta Saito__ and Shota Yasui.
 -  **Counterfactual Cross-Validation**  
 __Yuta Saito__ and Shota Yasui.  
 ACM Recsys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.  
-[[pdf](https://usaito.github.io/files/cfcv-ws.pdf)] [[poster]()]
+[[pdf](https://usaito.github.io/files/cfcv_ws.pdf)] [[poster]()]
 
 -  **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
