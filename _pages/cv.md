@@ -80,9 +80,9 @@ Selected and Upcoming Talks
 
 - "Predicting Heterogenerous Causal Effects using Machine Learning Techniques" at 2019 Japanese Economic Association Autumn Meeting.  
 
-- "Debiasing Recommender Systems using Methods of Causal Inference" at [Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/). [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190710_CFML_study.pdf)]
+- "Debiasing Recommender Systems using Methods of Causal Inference" at [Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/). [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190710_CFML_study.pdf&print-pdf)]
 
-- "Recent Topics on Counterfactual Machine Learning" at Sony Corporation. [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190729_sonyRD.pdf)]
+- "Recent Topics on Counterfactual Machine Learning" at Sony Corporation. [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190729_sonyRD.pdf&print-pdf)]
 
 - "Recent Topics on Unbiased Learning to Rank" at Recruit, Data Science Team. [[slide]()]
 
