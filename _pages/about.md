@@ -24,6 +24,6 @@ Most recently, I have been focusing on the intersection between Counterfactual M
 - Unsupervised Domain Adaptation
 
 # News
-
-Jun, 2019    I started working at CyberAgent AI Lab as a Research Internshop.  
-Dec, 2018    Our paper "" has been accepted to SDM2019.
+- 2019.08: Our paper: "Counterfactual Cross Validation" has been accepted to [Recsys2019 REVEAL Workshop](https://sites.google.com/view/reveal2019/home?authuser=0).
+- 2019.06: I started working at CyberAgent AI Lab as a Research Internshop.  
+- 2018.12: Our paper "Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data" has been accepted to [SDM2019](https://www.siam.org/Conferences/CM/Conference/sdm19).
