@@ -19,16 +19,16 @@ __"Interection between Causal Inference and Machine Learning: An Overview"__
 
 Oct 12, 2019  
 __"Predicting Heterogenerous Causal Effects using Machine Learning Techniques"__  
-@ 2019 Japanese Economic Association Autumn Meeting.
+@ 2019 Japanese Economic Association Autumn Meeting
 
 Jul 25, 2019  
 __"Recent Topics on Counterfactual Machine Learning"__  
-@ Sony Corporation.  
+@ Sony Corporation  
 [[slide](https://usaito.github.io/files/190729_sonyRD.pdf)]
 
 Jul 10, 2019  
 __"Debiasing Recommender Systems using Methods of Causal Inference"__   
-@ [Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/).   
+@ [1st Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/).   
 [[slide](https://usaito.github.io/files/190710_CFML_study.pdf)]
 
 
@@ -39,4 +39,4 @@ __"Recent Topics on Unbiased Learning to Rank"__
 
 May 24, 2019  
 __"Unsupervised Domain Adaptation and Its Application to CTR Prediction"__  
-@ CyberAgent, Inc., AI Lab.  
+@ CyberAgent, Inc., AI Lab

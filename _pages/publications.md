@@ -14,7 +14,7 @@ __Yuta Saito__.
 __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
 [[arxiv]()]  
 
-- **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatmetns**    
+- **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
 [[pdf](https://usaito.github.io/files/varts.pdf)]  
 
