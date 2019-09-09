@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- **BS. in Engineering**, Tokyo Institute of Technology  
+- **B.Eng. in Industorial Engineering & Economics**, Tokyo Institute of Technology  
     2016 - present  
     Supervised by Prof. [Kazuhide Nakata](http://www.me.titech.ac.jp/~nakata/nakata_en.html)
 
@@ -21,7 +21,7 @@ Counterfactual Machine Learning, Causal Inference, Information Retrieval, Domain
 
 Work experience
 ======
-* Research assistant  
+- **Research Assistant**  
   Tokyo Institute of Technology  
   Researching on Uplift Modeling  
   Supervised by Prof. [Kazuhide Nakata](http://www.me.titech.ac.jp/~nakata/nakata_en.html)
@@ -29,7 +29,7 @@ Work experience
 Internship Experiences
 ======
 - __Research Internship in Counterfactual Machine Learning__  
-  Cyberagent, Inc., AI Lab ADEcon Team.
+  CyberAgent, Inc., AI Lab ADEcon Team.
 
 - __Research Internship in Counterfactual Machine Learning__  
   So-net Media Netowrks Corp., a.i lab.
@@ -69,24 +69,24 @@ __Yuta Saito__ and Shota Yasui.
 
 Selected and Upcoming Talks
 ======
-### 2019
 
-#### In English
-- "Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data" at SDM2019.  [[slide]()]
+### In English
 
-#### In Japanese
+2019.05. "Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data" at SDM2019.  [[slide]()]
+
+### In Japanese
 
 - "Interection between Causal Inference and Machine Learning: An Overview" at Mitsubishi UFJ Research and Consulting and Metrics Work Consultants Inc.  
 
 - "Predicting Heterogenerous Causal Effects using Machine Learning Techniques" at 2019 Japanese Economic Association Autumn Meeting.  
 
-- "Debiasing Recommender Systems using Methods of Causal Inference" at [Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/). [[slide]()]
+- "Debiasing Recommender Systems using Methods of Causal Inference" at [Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/). [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190710_CFML_study.pdf)]
 
-- "Recent Topics on Counterfactual Machine Learning" at Sony Corporation. [[slide]()]
+- "Recent Topics on Counterfactual Machine Learning" at Sony Corporation. [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190729_sonyRD.pdf)]
 
 - "Recent Topics on Unbiased Learning to Rank" at Recruit, Data Science Team. [[slide]()]
 
-- "Unsupervised Domain Adaptation and Its Application to CTR Prediction" at Cyberagent, Inc., AI Lab.  
+- "Unsupervised Domain Adaptation and Its Application to CTR Prediction" at CyberAgent, Inc., AI Lab.  
 
 
 
