@@ -72,21 +72,21 @@ Selected and Upcoming Talks
 
 ### In English
 
-2019.05. "Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data" at SDM2019.  [[slide]()]
+May, 2019　　　　__"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data"__ at SDM2019.  [[slide]()]
 
 ### In Japanese
 
-- "Interection between Causal Inference and Machine Learning: An Overview" at Mitsubishi UFJ Research and Consulting and Metrics Work Consultants Inc.  
+Oct, 2019 　　　__"Interection between Causal Inference and Machine Learning: An Overview"__ @ Mitsubishi UFJ Research and Consulting and Metrics Work Consultants Inc.  
 
-- "Predicting Heterogenerous Causal Effects using Machine Learning Techniques" at 2019 Japanese Economic Association Autumn Meeting.  
+Oct, 2019　　　　__"Predicting Heterogenerous Causal Effects using Machine Learning Techniques"__ @ 2019 Japanese Economic Association Autumn Meeting.  
 
-- "Debiasing Recommender Systems using Methods of Causal Inference" at [Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/). [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190710_CFML_study.pdf&print-pdf)]
+Jul, 2019　　　　__"Debiasing Recommender Systems using Methods of Causal Inference"__ @ [Seminar on Counterfactual Machine Learning](https://connpass.com/event/128714/). [[slide](https://usaito.github.io/files/190710_CFML_study.pdf)]
 
-- "Recent Topics on Counterfactual Machine Learning" at Sony Corporation. [[slide](https://github.com/usaito/usaito.github.io/blob/master/files/190729_sonyRD.pdf&print-pdf)]
+Jul, 2019　　　　__"Recent Topics on Counterfactual Machine Learning"__ @ Sony Corporation. [[slide](https://usaito.github.io/files/190729_sonyRD.pdf)]
 
-- "Recent Topics on Unbiased Learning to Rank" at Recruit, Data Science Team. [[slide]()]
+Jun, 2019　　　　__"Recent Topics on Unbiased Learning to Rank"__ @ Recruit, Data Science Team. [[slide]()]
 
-- "Unsupervised Domain Adaptation and Its Application to CTR Prediction" at CyberAgent, Inc., AI Lab.  
+Jun, 2019　　　　__"Unsupervised Domain Adaptation and Its Application to CTR Prediction"__ @ CyberAgent, Inc., AI Lab.  
 
 
 

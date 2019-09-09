@@ -24,6 +24,6 @@ Most recently, I have been focusing on the intersection between Counterfactual M
 - Unsupervised Domain Adaptation
 
 # News
--  
--  
--  
+
+Jun, 2019    I started working at CyberAgent AI Lab as a Research Internshop.  
+Dec, 2018    Our paper "" has been accepted to SDM2019.
