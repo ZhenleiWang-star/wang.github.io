@@ -5,16 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-Selected and Upcoming Talks
-======
-
-### In English
+## In English
 
 May 03, 2019  
 __"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data"__  
 @ SIAM Conference on Data Mining (SDM) 2019.  
 
-### In Japanese
+## In Japanese
 
 Oct 25, 2019  
 __"Interection between Causal Inference and Machine Learning: An Overview"__  
