@@ -6,21 +6,22 @@ author_profile: true
 ---
 
 ## Preprints
-- **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
-__Yuta Saito__.   
-[[arxiv]()]  
-
-- **Relevance Matrix Factorization**  
-__Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
-[[arxiv]()]  
-
-- **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
-__Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
-[[pdf](https://usaito.github.io/files/varts.pdf)]  
 
 -  **Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data**  
 __Yuta Saito__ and Shota Yasui.  
 [[arxiv]()]  
+
+- **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
+__Yuta Saito__.   
+[[pdf](https://usaito.github.io/files/atmf_arxiv.pdf)]  
+
+- **Relevance Matrix Factorization**  
+__Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
+[[arxiv](https://arxiv.org/abs/1909.03601)]  
+
+- **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
+__Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
+[[pdf](https://usaito.github.io/files/varts.pdf)]  
 
 ## International Conference and Workshop Papers
 -  **Counterfactual Cross-Validation**  
