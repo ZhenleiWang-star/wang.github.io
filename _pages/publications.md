@@ -13,7 +13,7 @@ __Yuta Saito__ and Shota Yasui.
 
 - **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
 __Yuta Saito__.   
-[[pdf](https://usaito.github.io/files/atmf_arxiv.pdf)]  
+[[pdf](https://usaito.github.io/files/atmf.pdf)]  
 
 - **Relevance Matrix Factorization**  
 __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
