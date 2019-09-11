@@ -19,7 +19,7 @@ __"Interection between Causal Inference and Machine Learning: An Overview"__
 
 Oct 12, 2019  
 __"Predicting Heterogenerous Causal Effects using Machine Learning Techniques"__  
-@ 2019 Japanese Economic Association Autumn Meeting
+@ [2019 Japanese Economic Association Autumn Meeting](https://www.jeameetings.org/2019f/index.html)
 
 Jul 25, 2019  
 __"Recent Topics on Counterfactual Machine Learning"__  
