@@ -14,7 +14,7 @@ __"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for O
 ## In Japanese
 
 Oct 25, 2019  
-__"Interection between Causal Inference and Machine Learning: An Overview"__  
+__"Interection of Causal Inference and Machine Learning: An Overview"__  
 @ Mitsubishi UFJ Research and Consulting and Metrics Work Consultants Inc.  
 
 Oct 12, 2019  

@@ -12,7 +12,7 @@ redirect_from:
 I am a forth year undergraduate at Tokyo Institute of Technology.
 
 My research lies at the intersection of machine learning and causal inference called counterfactual machine learning.
-I am interested in the counterfactual nature of logged bandit feedback obtained from interactive systems, and ways of using biased real-world datasets to assist better decision making. Most recently, I have been focusing on the intersection between counterfactual machine learning and unsupervised domain adaptation.
+I am interested in the counterfactual nature of logged bandit feedback obtained from interactive systems, and ways of using biased real-world datasets to assist better decision making. Most recently, I have been focusing on the intersection of counterfactual machine learning and unsupervised domain adaptation.
 
 # Research Interests
 - Counterfactual Machine Learning
