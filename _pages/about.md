@@ -23,7 +23,7 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 - Unsupervised Domain Adaptation
 
 # News
-- 2019.09: Our paper: "Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data" is now available on [arXiv]().
+- 2019.09: Our paper: "Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data" is now available on [arXiv](https://arxiv.org/abs/1909.05299).
 - 2019.09: Our paper: "Relevance Matrix Factorization" is now available on [arXiv](https://arxiv.org/abs/1909.03601).
 - 2019.09: Our paper: "Eliminating Bias in Recommender Systems via Pseudo-Labeling" is now available [here](https://usaito.github.io/files/atmf.pdf).
 - 2019.08: Our paper: "Counterfactual Cross Validation" has been accepted to [Recsys2019 REVEAL Workshop](https://sites.google.com/view/reveal2019/home?authuser=0).

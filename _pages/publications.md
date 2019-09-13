@@ -9,7 +9,7 @@ author_profile: true
 
 -  **Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data**  
 __Yuta Saito__ and Shota Yasui.  
-[[arxiv]()]  
+[[arxiv](https://arxiv.org/abs/1909.05299)]  
 
 - **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
 __Yuta Saito__.   
