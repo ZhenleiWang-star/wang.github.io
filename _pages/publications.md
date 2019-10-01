@@ -29,7 +29,7 @@ __Yuta Saito__, Gota Morishita, and Shota Yasui.
 NeurIPS Workshop on Causal Machine Learning, Vancouver, Canada, Dec. 13-14, 2019.  
 [pdf] [poster]
 
-- **Unbiased Pairwise Learning from Implicit Feedback** <br> __Yuta Saito__. <br>
+- **Unbiased Pairwise Learning from Implicit Feedback**   __Yuta Saito__.  
 NeurIPS Workshop on Causal Machine Learning, Vancouver, Canada, Dec. 13-14, 2019.  
 [pdf] [poster]
 
