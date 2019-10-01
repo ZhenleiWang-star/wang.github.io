@@ -24,9 +24,19 @@ __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
 [[pdf](https://usaito.github.io/files/varts.pdf)]  
 
 ## International Conference and Workshop Papers
+- **Dual Leaarning Algorithm for Delayed Feedback in Display Advertising**  
+__Yuta Saito__, Gota Morishita, and Shota Yasui.  
+NeurIPS Workshop on Causal Machine Learning, Vancouver, Canada, Dec. 13-14, 2019.  
+[pdf] [poster]
+
+- **Unbiased Pairwise Learning from Implicit Feedback** <br> __Yuta Saito__. <br>
+NeurIPS Workshop on Causal Machine Learning, Vancouver, Canada, Dec. 13-14, 2019.  
+[pdf] [poster]
+
+
 -  **Counterfactual Cross-Validation**  
 __Yuta Saito__ and Shota Yasui.  
-ACM Recsys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.  
+ACM Recsys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep 20, 2019.  
 [[pdf](https://usaito.github.io/files/cfcv_ws.pdf)] [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
 
 -  **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
