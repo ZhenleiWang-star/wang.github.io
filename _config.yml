@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuta Saito"
 title_separator          : "-"
 name                     : &name "Yuta Saito"
-description              : &description "Undergraduate student at Tokyo Institute of Technology"
+description              : &description "Fourth year undergraduate student at Tokyo Institute of Technology"
 url                      : https://usaito.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "usaito.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuta Saito"
   avatar           : "profile.png"
-  bio              : "Forth year undergraduate at Tokyo Institute of Technology"
+  bio              : "Fourth year undergraduate at Tokyo Institute of Technology"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
