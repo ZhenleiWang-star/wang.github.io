@@ -23,8 +23,8 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 - Unsupervised Domain Adaptation
 
 # News
-- 2019.10: Our paper "Dual Learning Algorithm for Delayed Feedback in Display Advertising" has been accepted to [the Causal Machine Learning Workshop at NeurIPS 2019](http://tripods.cis.cornell.edu/neurips19_causalml/).
-- 2019.10: Our paper "Unbiased Pairwise Learning from Implicit Feedback" has been accepted to [the Causal Machine Learning Workshop at NeurIPS 2019](http://tripods.cis.cornell.edu/neurips19_causalml/).
+- 2019.10: Our paper "Dual Learning Algorithm for Delayed Feedback in Display Advertising" has been accepted to [the CausalML Workshop at NeurIPS 2019](http://tripods.cis.cornell.edu/neurips19_causalml/).
+- 2019.10: Our paper "Unbiased Pairwise Learning from Implicit Feedback" has been accepted to [the CausalML Workshop at NeurIPS 2019](http://tripods.cis.cornell.edu/neurips19_causalml/).
 - 2019.09: Our paper "Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data" is now available on [arXiv](https://arxiv.org/abs/1909.05299).
 - 2019.09: Our paper "Relevance Matrix Factorization" is now available on [arXiv](https://arxiv.org/abs/1909.03601).
 - 2019.09: Our paper "Eliminating Bias in Recommender Systems via Pseudo-Labeling" is now available [here](https://usaito.github.io/files/atmf.pdf).
