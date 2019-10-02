@@ -26,20 +26,20 @@ __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
 ## International Conference and Workshop Papers
 - **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
 __Yuta Saito__, Gota Morishita, and Shota Yasui.  
-NeurIPS Workshop on Causal Machine Learning, Vancouver, BC,  Canada, Dec 13-14, 2019 (to appear).  
+NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
 [pdf] [poster]
 
 - **Unbiased Pairwise Learning from Implicit Feedback**  <br> __Yuta Saito__.  <br>
-NeurIPS Workshop on Causal Machine Learning, Vancouver, BC, Canada, Dec 13-14, 2019 (to appear).  
+NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
 [pdf] [poster]
 
 
 -  **Counterfactual Cross-Validation**  
 __Yuta Saito__ and Shota Yasui.  
-ACM Recsys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep 20, 2019.  
+ACM RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.  
 [[pdf](https://usaito.github.io/files/cfcv_ws.pdf)] [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
 
 -  **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
- In Proceedings of the SIAM International Conference on Data Mining (SDM19), Calgary, Alberta, Canada, May 2-4, 2019. (__Oral Presentation__)   
+ In Proceedings of the SIAM International Conference on Data Mining (SDM19), Calgary, Alberta, Canada, May. 2-4, 2019. (__Oral Presentation__)   
  [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.53)] [[supplementary material](https://usaito.github.io/files/SDM19_appendix.pdf)] [[poster](https://usaito.github.io/files/SDM19_poster.pdf)]
