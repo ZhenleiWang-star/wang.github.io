@@ -9,15 +9,15 @@ author_profile: true
 
 -  **Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data**  
 __Yuta Saito__ and Shota Yasui.  
-[[arxiv](https://arxiv.org/abs/1909.05299)]  
+[[arXiv](https://arxiv.org/abs/1909.05299)]  
 
 - **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
 __Yuta Saito__.   
-[[pdf](https://usaito.github.io/files/atmf.pdf)]  
+[[arXiv](https://arxiv.org/abs/1910.01444)]  
 
 - **Relevance Matrix Factorization**  
 __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
-[[arxiv](https://arxiv.org/abs/1909.03601)]  
+[[arXiv](https://arxiv.org/abs/1909.03601)]  
 
 - **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
@@ -27,7 +27,7 @@ __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
 - **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
 __Yuta Saito__, Gota Morishita, and Shota Yasui.  
 NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
-[pdf] [poster]
+[arXiv] [poster]
 
 - **Unbiased Pairwise Learning from Implicit Feedback**  <br> __Yuta Saito__.  <br>
 NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
