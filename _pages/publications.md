@@ -27,7 +27,7 @@ __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
 - **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
 __Yuta Saito__, Gota Morishita, and Shota Yasui.  
 NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
-[arXiv] [poster]
+[[arXiv](https://arxiv.org/abs/1910.01847)] [poster]
 
 - **Unbiased Pairwise Learning from Implicit Feedback**  <br> __Yuta Saito__.  <br>
 NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
