@@ -22,7 +22,7 @@ __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
 ## International Conference and Workshop Papers
 - **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
 __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
-In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb 3-7, 2020 (to appear).   
+In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb. 3-7, 2020 (to appear).   
 [pdf] [poster]
 
 - **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
