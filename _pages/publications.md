@@ -15,15 +15,16 @@ __Yuta Saito__ and Shota Yasui.
 __Yuta Saito__.   
 [[arXiv](https://arxiv.org/abs/1910.01444)]  
 
-- **Relevance Matrix Factorization**  
-__Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
-[[arXiv](https://arxiv.org/abs/1909.03601)]  
-
 - **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
 [[pdf](https://usaito.github.io/files/varts.pdf)]  
 
 ## International Conference and Workshop Papers
+- **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
+__Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
+In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb 3-7, 2020 (to appear).   
+[pdf] [poster]
+
 - **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
 __Yuta Saito__, Gota Morishita, and Shota Yasui.  
 NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
