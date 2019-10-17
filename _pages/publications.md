@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 - **Unsupervised Domain Adaptation Meets Offline Recommender Learning**  
 __Yuta Saito__. <br>
-[arXiv]
+[[arXiv](https://arxiv.org/abs/1910.07295)]
 
 -  **Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data**  
 __Yuta Saito__ and Shota Yasui.  
