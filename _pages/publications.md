@@ -6,16 +6,12 @@ author_profile: true
 ---
 
 ## Preprints
-- **Unsupervised Domain Adaptation Meets Offline Recommender Learning**  
-__Yuta Saito__. <br>
-[[arXiv](https://arxiv.org/abs/1910.07295)]
-
 -  **Counterfactual Cross-Validation: Effective Causal Model Selection from Observational Data**  
 __Yuta Saito__ and Shota Yasui.  
 [[arXiv](https://arxiv.org/abs/1909.05299)]  
 
 - **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
-__Yuta Saito__.   
+__Yuta Saito__.  <br>
 [[arXiv](https://arxiv.org/abs/1910.01444)]  
 
 - **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
@@ -23,19 +19,24 @@ __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
 [[pdf](https://usaito.github.io/files/varts.pdf)]  
 
 ## International Conference and Workshop Papers
+- **Unsupervised Domain Adaptation Meets Offline Recommender Learning**  
+__Yuta Saito__. <br>
+NewInML forum (co-located with NeurIPS), Vancouver, British Columbia, Canada, Dec. 09, 2019 (to appear). <br>
+[[arXiv](https://arxiv.org/abs/1910.07295)] [code] [poster]
+
 - **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
 __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
 In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb. 3-7, 2020 (to appear).   
-[pdf] [poster]
+[pdf] [code] [poster]
 
 - **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
 __Yuta Saito__, Gota Morishita, and Shota Yasui.  
 NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
-[[arXiv](https://arxiv.org/abs/1910.01847)] [poster]
+[[arXiv](https://arxiv.org/abs/1910.01847)] [code] [poster]
 
 - **Unbiased Pairwise Learning from Implicit Feedback**  <br> __Yuta Saito__.  <br>
-NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear).  
-[pdf] [poster]
+NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 13-14, 2019 (to appear). (__Oral Presentation__) <br>
+[pdf] [code] [poster]
 
 
 -  **Counterfactual Cross-Validation**  

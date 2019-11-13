@@ -13,6 +13,14 @@ __"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for O
 
 ## In Japanese
 
+Nov 14, 2019  
+__"Recent Topics on Counterfactual Machine Learning"__  
+@ ZOZO Technologies, Inc.
+
+Oct 28, 2019  
+__"Recent Topics on Unbiased Learning to Rank"__  
+@ Indeed, Japan
+
 Oct 25, 2019  
 __"Intesection of Causal Inference and Machine Learning: An Overview"__  
 @ Mitsubishi UFJ Research and Consulting and Metrics Work Consultants Inc.  

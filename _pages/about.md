@@ -23,6 +23,8 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 - Unsupervised Domain Adaptation
 
 # News
+- 2019.11: My paper: "Unsupervised Domain Adaptation Meets Offline Recommender Learning" has been accepted to [the NewInML at NeurIPS'19](https://nehzux.github.io/NewInML2019/)  
+- 2019.11: I started working at ZOZO Technologies, Inc. and Jinch Co., Ltd., as a Research Internshop.  
 - 2019.10: Our paper "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback" has been accepted to [WSDM'20](http://www.wsdm-conference.org/2020/)
 - 2019.10: Our papers "Dual Learning Algorithm for Delayed Feedback in Display Advertising" and "Unbiased Pairwise Learning from Implicit Feedback" have been accepted to [the CausalML Workshop at NeurIPS'19](http://tripods.cis.cornell.edu/neurips19_causalml/).
 - 2019.08: Our paper "Counterfactual Cross Validation" has been accepted to [the REVEAL Workshop at RecSys'19](https://sites.google.com/view/reveal2019/home?authuser=0).
