@@ -7,7 +7,11 @@ author_profile: true
 
 ## In English
 
-1.   __"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data"__  
+1. __"Unbiased Pairwise Learning from Implicit Feedback"__  <br>
+Dec. 14, 2019 @NeurIPS Workshop on Causal Machine Learning.  
+[[slide](https://usaito.github.io/files/ubpr_ws_slide.pdf)]
+
+2.   __"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data"__  
 May 03, 2019 @SIAM Conference on Data Mining (SDM) 2019.  
 
 ## In Japanese
