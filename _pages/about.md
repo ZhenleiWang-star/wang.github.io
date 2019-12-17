@@ -24,6 +24,7 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 - Unsupervised Domain Adaptation
 
 # News
+- 2019.12: Our paper: "Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments" has been accepted to [SDM'20](https://www.siam.org/conferences/cm/conference/sdm20).
 - 2019.11: My paper: "Unsupervised Domain Adaptation Meets Offline Recommender Learning" has been accepted to [NewInML session (co-located with NeurIPS'19)](https://nehzux.github.io/NewInML2019/)  
 - 2019.11: I started working at ZOZO Technologies, Inc. and Jinch Co., Ltd., as a Research Internshop.  
 - 2019.10: Our paper "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback" has been accepted to [WSDM'20](http://www.wsdm-conference.org/2020/)
