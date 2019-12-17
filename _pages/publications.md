@@ -18,7 +18,7 @@ __Yuta Saito__.  <br>
 
 1. **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
- In Proceedings of the SIAM International Conference on Data Mining (SDM20), Cincinnati, Ohio, USA, May. 7-9, 2020 (to appear).  
+ In Proceedings of the SIAM International Conference on Data Mining (SDM20), Cincinnati, Ohio, USA, May. 7-9, 2020. (to appear)  
  __Acceptance rate: 75/312 = 24.0%__  
 [[pdf](https://usaito.github.io/files/varts.pdf)]
 
@@ -39,7 +39,7 @@ __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.
 
  1. **Unsupervised Domain Adaptation Meets Offline Recommender Learning**  
  __Yuta Saito__. <br>
- NewInML session (co-located with NeurIPS), Vancouver, British Columbia, Canada, Dec. 09, 2019. <br>
+ NewInML session (co-located with NeurIPS), Vancouver, British Columbia, Canada, Dec. 9, 2019. <br>
  [[arXiv](https://arxiv.org/abs/1910.07295)] [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
 
  2. **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
