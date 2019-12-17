@@ -12,21 +12,23 @@ __Yuta Saito__ and Shota Yasui.
 
 2. **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
 __Yuta Saito__.  <br>
-[[arXiv](https://arxiv.org/abs/1910.01444)]  
-
-3. **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
-__Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
-[[pdf](https://usaito.github.io/files/varts.pdf)]  
+[[arXiv](https://arxiv.org/abs/1910.01444)]   
 
 ## International Conference Full Papers (peer-reviewed)
 
-1. **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
+1. **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**    
+__Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
+ In Proceedings of the SIAM International Conference on Data Mining (SDM20), Cincinnati, Ohio, USA, May. 7-9, 2020 (to appear).  
+ __Acceptance rate: 75/312 = 24.0%__  
+[[pdf](https://usaito.github.io/files/varts.pdf)]
+
+2. **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
 __Yuta Saito__, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
 In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb. 3-7, 2020 (to appear).  
 __Acceptance rate: 91/615 = 14.8%__  
 [[arXiv](https://arxiv.org/abs/1909.03601)] [[code](https://github.com/usaito/unbiased-implicit-rec)] [poster] [slide]
 
-2.  **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
+3.  **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
 __Yuta Saito__, Hayato Sakata, and Kazuhide Nakata.  
  In Proceedings of the SIAM International Conference on Data Mining (SDM19), Calgary, Alberta, Canada, May. 2-4, 2019. (__Oral Presentation__) <br>
  __Acceptance rate: 90/397 = 22.7%__  
