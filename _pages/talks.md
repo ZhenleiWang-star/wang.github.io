@@ -18,7 +18,7 @@ author_profile: true
 
 1. **"Unbiased Recommender Learning from Biased Implicit Feedback"**  
    Dec 23, 2019 @[Seminar on Counterfactual Machine Learning#4](https://cfml.connpass.com/event/155167/)  
-   [[slide](191223_CFML_study)]
+   [[slide](https://usaito.github.io/files/191223_CFML_study)]
 
 1. **"Recent Topics on Counterfactual Machine Learning"**  
    Nov 14, 2019 @ZOZO Technologies, Inc.
