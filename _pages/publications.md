@@ -19,8 +19,8 @@ author_profile: true
 
 1. **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**  
    **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata.  
-    In Proceedings of the SIAM International Conference on Data Mining (SDM20), Cincinnati, Ohio, USA, May. 7-9, 2020. (to appear)  
-    **Acceptance rate: 75/312 = 24.0%**  
+    In Proceedings of the SIAM International Conference on Data Mining (SDM20), Cincinnati, Ohio, USA, May. 7-9, 2020 (to appear). (**Oral Presentation**)  
+   **Acceptance rate: 75/312 = 24.0%**  
    [[pdf](https://usaito.github.io/files/varts.pdf)][poster] [slide]
 
 2. **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
@@ -51,7 +51,7 @@ author_profile: true
     NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 14, 2019. (**Spotlight Presentation**) <br>
     [[poster](https://usaito.github.io/files/ubpr_ws_poster.pdf)] [[slide](https://usaito.github.io/files/ubpr_ws_slide.pdf)]
 
-4)  **Counterfactual Cross-Validation**  
+4.  **Counterfactual Cross-Validation**  
     **Yuta Saito** and Shota Yasui.  
     ACM RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.  
     [[pdf](https://usaito.github.io/files/cfcv_ws.pdf)] [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
