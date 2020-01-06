@@ -49,7 +49,10 @@ author_profile: true
 
 3.  **Unbiased Pairwise Learning from Implicit Feedback** <br> **Yuta Saito**. <br>
     NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 14, 2019. (**Spotlight Presentation**) <br>
-    [[poster](https://usaito.github.io/files/ubpr_ws_poster.pdf)] [[slide](https://usaito.github.io/files/ubpr_ws_slide.pdf)]
+    [poster][slide]
+
+    <!-- [[poster](https://usaito.github.io/files/ubpr_ws_poster.pdf)] [[slide](https://usaito.github.io/files/ubpr_ws_slide.pdf)]
+    -->
 
 4.  **Counterfactual Cross-Validation**  
     **Yuta Saito** and Shota Yasui.  
