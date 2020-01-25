@@ -11,10 +11,6 @@ author_profile: true
     **Yuta Saito** and Shota Yasui.  
     [[arXiv](https://arxiv.org/abs/1909.05299)]
 
-2.  **Eliminating Bias in Recommender Systems via Pseudo-Labeling**  
-    **Yuta Saito**. <br>
-    [[arXiv](https://arxiv.org/abs/1910.01444)]
-
 ## International Conference Full Papers (peer-reviewed)
 
 1. **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**  
@@ -27,7 +23,7 @@ author_profile: true
    **Yuta Saito**, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
    In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb. 3-7, 2020 (to appear). (**Oral Presentation**)  
    **Acceptance rate: 91/615 = 14.8%**  
-   [[arXiv](https://arxiv.org/abs/1909.03601)] [[code](https://github.com/usaito/unbiased-implicit-rec)][poster] [slide]
+   [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371783)] [[code](https://github.com/usaito/unbiased-implicit-rec)][poster] [slide]
 
 3. **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
    **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata.  
@@ -40,7 +36,7 @@ author_profile: true
 1.  **Unsupervised Domain Adaptation Meets Offline Recommender Learning**  
     **Yuta Saito**. <br>
     NewInML session (co-located with NeurIPS), Vancouver, British Columbia, Canada, Dec. 9, 2019. <br>
-    [[arXiv](https://arxiv.org/abs/1910.07295)] [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
+    [[pdf](https://usaito.github.io/files/damf.pdf)] [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
 
 2.  **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
     **Yuta Saito**, Gota Morishita, and Shota Yasui.  
