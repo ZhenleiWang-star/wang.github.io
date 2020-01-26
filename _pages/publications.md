@@ -36,16 +36,15 @@ author_profile: true
 1.  **Unsupervised Domain Adaptation Meets Offline Recommender Learning**  
     **Yuta Saito**. <br>
     NewInML session (co-located with NeurIPS), Vancouver, British Columbia, Canada, Dec. 9, 2019. <br>
-    [[pdf](https://usaito.github.io/files/damf.pdf)] [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
+    [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
 
 2.  **Dual Learning Algorithm for Delayed Feedback in Display Advertising**  
     **Yuta Saito**, Gota Morishita, and Shota Yasui.  
     NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 14, 2019.  
-    [[arXiv](https://arxiv.org/abs/1910.01847)] [[poster](https://usaito.github.io/files/dladf_ws_poster.pdf)]
+    [[poster](https://usaito.github.io/files/dladf_ws_poster.pdf)]
 
 3.  **Unbiased Pairwise Learning from Implicit Feedback** <br> **Yuta Saito**. <br>
     NeurIPS Workshop on Causal Machine Learning, Vancouver, British Columbia, Canada, Dec. 14, 2019. (**Spotlight Presentation**) <br>
-    [poster][slide]
 
     <!-- [[poster](https://usaito.github.io/files/ubpr_ws_poster.pdf)] [[slide](https://usaito.github.io/files/ubpr_ws_slide.pdf)]
     -->
@@ -53,4 +52,4 @@ author_profile: true
 4.  **Counterfactual Cross-Validation**  
     **Yuta Saito** and Shota Yasui.  
     ACM RecSys Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL), Copenhagen, Denmark, Sep. 20, 2019.  
-    [[pdf](https://usaito.github.io/files/cfcv_ws.pdf)] [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
+    [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
