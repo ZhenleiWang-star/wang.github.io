@@ -23,7 +23,7 @@ author_profile: true
    **Yuta Saito**, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
    In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb. 3-7, 2020 (to appear). (**Oral Presentation**)  
    **Acceptance rate: 91/615 = 14.8%**  
-   [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371783)] [[code](https://github.com/usaito/unbiased-implicit-rec)][poster] [slide]
+   [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371783)] [[code](https://github.com/usaito/unbiased-implicit-rec)] [[poster](https://usaito.github.io/files/relmf-poster.pdf)] [[slide](https://usaito.github.io/files/relmf-slide.pdf)]
 
 3. **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
    **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata.  
