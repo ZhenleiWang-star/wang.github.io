@@ -7,11 +7,15 @@ author_profile: true
 
 ## In English
 
-1. **"Unbiased Pairwise Learning from Implicit Feedback"** <br>
+1. **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
+   Feb. 04, 2020 @ACM International Conference on Web Search and Data Mining (WSDM20)  
+   [[slide](https://usaito.github.io/files/relmf-slide.pdf)]
+
+2. **"Unbiased Pairwise Learning from Implicit Feedback"** <br>
    Dec. 14, 2019 @NeurIPS Workshop on Causal Machine Learning.  
    [[slide](https://usaito.github.io/files/ubpr_ws_slide.pdf)]
 
-2. **"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data"**  
+3. **"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data"**  
    May 03, 2019 @SIAM Conference on Data Mining (SDM) 2019.
 
 ## In Japanese
