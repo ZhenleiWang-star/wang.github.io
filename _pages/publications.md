@@ -21,9 +21,9 @@ author_profile: true
 
 2. **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
    **Yuta Saito**, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.  
-   In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb. 3-7, 2020 (to appear). (**Oral Presentation**)  
+   In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM20), Houston, Texas, USA, Feb. 3-7, 2020. (**Oral Presentation**)  
    **Acceptance rate: 91/615 = 14.8%**  
-   [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371783)] [[code](https://github.com/usaito/unbiased-implicit-rec)] [[slide](https://usaito.github.io/files/relmf-slide.pdf)] [[poster](https://usaito.github.io/files/relmf-poster.pdf)]
+   [[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371783)] [[code1](https://github.com/usaito/unbiased-implicit-rec)] [[code2](https://github.com/usaito/unbiased-implicit-rec-real)] [[slide](https://usaito.github.io/files/relmf-slide.pdf)] [[poster](https://usaito.github.io/files/relmf-poster.pdf)]
 
 3. **Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data**  
    **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata.  
