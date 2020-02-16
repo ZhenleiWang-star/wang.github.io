@@ -5,44 +5,55 @@ permalink: /talks/
 author_profile: true
 ---
 
-## In English
+## Conference Oral Presentations
 
-1. **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**  
-   Feb. 04, 2020 @ACM International Conference on Web Search and Data Mining (WSDM20)  
-   [[slide](https://usaito.github.io/files/relmf-slide.pdf)]
+1. International Conference on Web Search and Data Mining (WSDM20)  
+   _Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback_  
+   Feb 04, 2020.  
+    [[slide](https://usaito.github.io/files/relmf-slide.pdf)]
 
-2. **"Unbiased Pairwise Learning from Implicit Feedback"** <br>
-   Dec. 14, 2019 @NeurIPS Workshop on Causal Machine Learning.
+2. NeurIPS 2019 Workshop on Causal Machine Learning  
+   _Unbiased Pairwise Learning from Implicit Feedback_  
+   Dec 14, 2019.
 
-3. **"Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data"**  
-   May 03, 2019 @SIAM Conference on Data Mining (SDM) 2019.
+3. SIAM Conference on Data Mining (SDM2019)  
+   _Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data_  
+    May 03, 2019.
 
-## In Japanese
+## Invited and Technical Talks
 
-1. **"Unbiased Recommender Learning from Biased Implicit Feedback"**  
-   Dec 23, 2019 @[Seminar on Counterfactual Machine Learning#4](https://cfml.connpass.com/event/155167/)  
-   [[slide](https://usaito.github.io/files/191223_CFML_study.pdf)]
+1.  [Seminar on Counterfactual Machine Learning#4](https://cfml.connpass.com/event/155167/)  
+    _Unbiased Recommender Learning from Biased Implicit Feedback_  
+     Dec. 23, 2019.  
+    [[slide](https://usaito.github.io/files/191223_CFML_study.pdf)]
 
-1. **"Recent Topics on Counterfactual Machine Learning"**  
-   Nov 14, 2019 @ZOZO Technologies, Inc.
+1.  ZOZO Technologies, Inc.  
+    _Recent Topics on Counterfactual Machine Learning_  
+    Nov 14, 2019.
 
-1. **"Recent Topics on Unbiased Learning to Rank"**  
-   Oct 28, 2019 @Indeed, Japan
+1.  Indeed, Japan  
+    _Recent Topics on Unbiased Learning to Rank_  
+    Oct 28, 2019.
 
-1. **"Intesection of Causal Inference and Machine Learning: An Overview"**  
-   Oct 25, 2019 @Mitsubishi UFJ Research and Consulting / Metrics Work Consultants Inc.
+1.  Mitsubishi UFJ Research and Consulting / Metrics Work Consultants Inc.  
+    _Intesection of Causal Inference and Machine Learning: An Overview_  
+    Oct 25, 2019
 
-1. **"Recent Topics on Counterfactual Machine Learning"**  
-   Jul 25, 2019 @Sony Corporation  
-   [[slide](https://usaito.github.io/files/190729_sonyRD.pdf)]
+1.  Sony Corporation  
+    _Recent Topics on Counterfactual Machine Learning_  
+    Jul 25, 2019  
+    [[slide](https://usaito.github.io/files/190729_sonyRD.pdf)]
 
-1. **"Debiasing Recommender Systems using Methods of Causal Inference"**  
-   Jul 10, 2019 @[Seminar on Counterfactual Machine Learning#1](https://connpass.com/event/128714/). <br>
-   [[slide](https://usaito.github.io/files/190710_CFML_study.pdf)]
+1.  [Seminar on Counterfactual Machine Learning#1](https://connpass.com/event/128714/)  
+    _Debiasing Recommender Systems using Methods of Causal Inference_  
+    Jul 10, 2019.  
+    [[slide](https://usaito.github.io/files/190710_CFML_study.pdf)]
 
-1. **"Recent Topics on Unbiased Learning to Rank"**  
-   Jun 11, 2019 @Recruit, Data Science Team  
-   [[slide](https://usaito.github.io/files/190611_Recruit.pdf)]
+1.  Recruit, Data Science Team  
+    _Recent Topics on Unbiased Learning to Rank_  
+    Jun 11, 2019.  
+    [[slide](https://usaito.github.io/files/190611_Recruit.pdf)]
 
-1. **"Unsupervised Domain Adaptation and Its Application to CTR Prediction"**  
-   May 24, 2019 @CyberAgent, Inc., AI Lab
+1.  CyberAgent, Inc., AdTech Studio.  
+    _Unsupervised Domain Adaptation and Its Application to CTR Prediction_  
+    May 24, 2019.
