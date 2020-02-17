@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Conference Full Papers (peer-reviewed)
 
-1. **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata. Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments  In _Proceedings of the 2020 SIAM International Conference on Data Mining (SDM2020)_, 2020, (to appear), (**Oral Presentation**).  
+1. **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata. Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments In _Proceedings of the 2020 SIAM International Conference on Data Mining (SDM2020)_, 2020, (to appear), (**Oral Presentation**).  
    **Acceptance rate: 75/312 = 24.0%**  
    [[pdf](https://usaito.github.io/files/varts.pdf)][poster] [slide]
 
@@ -24,11 +24,11 @@ author_profile: true
 1.  **Yuta Saito**. Unsupervised Domain Adaptation Meets Offline Recommender Learning. _NewInML session (co-located with NeurIPS 2019)_.  
     [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
 
-2.  **Yuta Saito**, Gota Morishita, and Shota Yasui. Dual Learning Algorithm for Delayed Feedback in Display Advertising.  _NeurIPS 2019 Workshop on Causal Machine Learning_.  
+2.  **Yuta Saito**, Gota Morishita, and Shota Yasui. Dual Learning Algorithm for Delayed Feedback in Display Advertising. _NeurIPS 2019 Workshop on Causal Machine Learning_.  
     [[poster](https://usaito.github.io/files/dladf_ws_poster.pdf)]
 
 3.  **Yuta Saito**. Unbiased Pairwise Learning from Implicit Feedback. _NeurIPS 2019 Workshop on Causal Machine Learning_ (**Spotlight Presentation**).  
-[[poster](https://drive.google.com/open?id=1th8dMxYBVZEpXh2y1SxyJw9d74EqZxyD)] [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)]  
+    [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)] [[poster](https://drive.google.com/open?id=1th8dMxYBVZEpXh2y1SxyJw9d74EqZxyD)]
 
 4.  **Yuta Saito** and Shota Yasui. Counterfactual Cross-Validation. _ACM RecSys 2019 Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL)_.  
     [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
@@ -39,11 +39,11 @@ author_profile: true
 
 2. **Yuta Saito**. Offline Recommender Learning Meets Unsupervised Domain Adaptation. _Under Review_.
 
-3. **Yuta Saito**. Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback. _Under Review_.
+3. **Yuta Saito**. Asymmetric Tri-training for De-biasing Missing-Not-At-Random Explicit Feedback. _Under Review_.
 
 4. **Yuta Saito**. Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions. _Under Review_.
 
 5. **Yuta Saito**. Unbiased Pairwise Learning from Biased Implicit Feedback. _Under Review_.
 
-6.  **Yuta Saito** and Shota Yasui. Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models. _arXiv preprint arXiv:1909.05299_  
-    [[arXiv](https://arxiv.org/abs/1909.05299)]
+6. **Yuta Saito** and Shota Yasui. Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models. _arXiv preprint arXiv:1909.05299_  
+   [[arXiv](https://arxiv.org/abs/1909.05299)]
