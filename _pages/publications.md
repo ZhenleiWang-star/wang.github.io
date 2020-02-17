@@ -27,10 +27,8 @@ author_profile: true
 2.  **Yuta Saito**, Gota Morishita, and Shota Yasui. Dual Learning Algorithm for Delayed Feedback in Display Advertising.  _NeurIPS 2019 Workshop on Causal Machine Learning_.  
     [[poster](https://usaito.github.io/files/dladf_ws_poster.pdf)]
 
-3.  **Yuta Saito**. Unbiased Pairwise Learning from Implicit Feedback. _NeurIPS 2019 Workshop on Causal Machine Learning_ (**Spotlight Presentation**).
-
-    <!-- [[poster](https://usaito.github.io/files/ubpr_ws_poster.pdf)] [[slide](https://usaito.github.io/files/ubpr_ws_slide.pdf)]
-    -->
+3.  **Yuta Saito**. Unbiased Pairwise Learning from Implicit Feedback. _NeurIPS 2019 Workshop on Causal Machine Learning_ (**Spotlight Presentation**).  
+[[poster](https://drive.google.com/open?id=1th8dMxYBVZEpXh2y1SxyJw9d74EqZxyD)] [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)]  
 
 4.  **Yuta Saito** and Shota Yasui. Counterfactual Cross-Validation. _ACM RecSys 2019 Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL)_.  
     [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
