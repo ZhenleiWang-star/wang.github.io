@@ -7,9 +7,9 @@ author_profile: true
 
 ## International Conference Full Papers (peer-reviewed)
 
-1. **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata. Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments In _Proceedings of the 2020 SIAM International Conference on Data Mining (SDM2020)_, 2020, (to appear), (**Oral Presentation**).  
+1. **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata. Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments In _Proceedings of the 2020 SIAM International Conference on Data Mining (SDM2020)_, 2020, (to appear).  
    **Acceptance rate: 75/312 = 24.0%**  
-   [[pdf](https://usaito.github.io/files/varts.pdf)][poster] [slide]
+   [[pdf](https://usaito.github.io/files/varts.pdf)]
 
 2. **Yuta Saito**, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata. Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback. In _Proceedings of the 13th International Conference on Web Search and Data Mining (WSDM2020)_, 2020, (**Oral Presentation**).  
    **Acceptance rate: 91/615 = 14.8%**  

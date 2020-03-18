@@ -22,6 +22,10 @@ author_profile: true
 
 ## Invited and Technical Talks
 
+1.  Gunocy Inc.  
+    _Unbiased Recommender Learning from Biased Implicit Feedback and Beyond_  
+     Mar. 05, 2020.  
+
 1.  [Seminar on Counterfactual Machine Learning#4](https://cfml.connpass.com/event/155167/)  
     _Unbiased Recommender Learning from Biased Implicit Feedback_  
      Dec. 23, 2019.  
