@@ -35,15 +35,19 @@ author_profile: true
 
 ## Preprints and Under Review Papers
 
+1. **Yuta Saito**. Dual Matrix Factorization for Recommendation with Missing-Not-At-Random Implicit Feedback. _Under Review_.
+
+1. **Yuta Saito**. Unbiased Recommender Learning from Biased Graded Implicit Feedback. _Under Review_.
+
 1. **Yuta Saito**, Gota Morishita, and Shota Yasui. Dual Learning Algorithm for Delayed Conversions. _Under Review_.
 
-2. **Yuta Saito**. Offline Recommender Learning Meets Unsupervised Domain Adaptation. _Under Review_.
+1. **Yuta Saito**. Offline Recommender Learning Meets Unsupervised Domain Adaptation. _Under Review_.
 
-3. **Yuta Saito**. Asymmetric Tri-training for De-biasing Missing-Not-At-Random Explicit Feedback. _Under Review_.
+1. **Yuta Saito**. Asymmetric Tri-training for De-biasing Missing-Not-At-Random Explicit Feedback. _Under Review_.
 
-4. **Yuta Saito**. Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions. _Under Review_.
+1. **Yuta Saito**. Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions. _Under Review_.
 
-5. **Yuta Saito**. Unbiased Pairwise Learning from Biased Implicit Feedback. _Under Review_.
+1. **Yuta Saito**. Unbiased Pairwise Learning from Biased Implicit Feedback. _Under Review_.
 
-6. **Yuta Saito** and Shota Yasui. Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models. _arXiv preprint arXiv:1909.05299_  
+1. **Yuta Saito** and Shota Yasui. Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models. _arXiv preprint arXiv:1909.05299_  
    [[arXiv](https://arxiv.org/abs/1909.05299)]
