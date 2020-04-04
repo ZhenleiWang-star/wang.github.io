@@ -33,7 +33,7 @@ author_profile: true
 4.  **Yuta Saito** and Shota Yasui. Counterfactual Cross-Validation. _ACM RecSys 2019 Workshop on Reinforcement and Robust Estimators for Recommendation (REVEAL)_.  
     [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
 
-## Preprints and Under Review Papers
+## _Preprints and Under Review Papers_
 
 1. **Yuta Saito**. Dual Matrix Factorization for Recommendation with Missing-Not-At-Random Implicit Feedback. _Under Review_.
 
