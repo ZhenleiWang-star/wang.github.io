@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## _Referred Conference Papers_
+## _Refereed Conference Papers_
 
 1. **Yuta Saito**. Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback. In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR2020)_, 2020 (to appear). <br>
 **Acceptance rate: 147/555 = 26.5%** <br>
@@ -27,7 +27,7 @@ author_profile: true
 **Acceptance rate: 90/397 = 22.7%** <br>
 [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.53)] [[supplementary material](https://usaito.github.io/files/SDM19_appendix.pdf)] [[poster](https://usaito.github.io/files/SDM19_poster.pdf)]
 
-## _Referred Workshop Papers_
+## _Refereed Workshop Papers_
 
 1.  **Yuta Saito**. Unsupervised Domain Adaptation Meets Offline Recommender Learning. _NewInML session (co-located with NeurIPS 2019)_. <br>
 [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
