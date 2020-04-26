@@ -53,8 +53,8 @@ author_profile: true
     [[slide](https://usaito.github.io/files/190710_CFML_study.pdf)]
 
 8.  Recruit, Data Science Team <br>
-    “_Recent Topics on Unbiased Learning to Rank_''
-    Jun 11, 2019. <br>
+    “_Recent Topics on Unbiased Learning to Rank_'' <br>
+    Jun 11, 2019.
     [[slide](https://usaito.github.io/files/190611_Recruit.pdf)]
 
 9.  CyberAgent, Inc., AdTech Studio. <br>
