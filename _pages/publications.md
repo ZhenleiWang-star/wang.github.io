@@ -7,10 +7,10 @@ author_profile: true
 
 ## _Refereed Conference Papers_
 
-1. **Yuta Saito**. “Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback.'' In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_, (to appear). <br>
+1. <u>Yuta Saito</u>. “**Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback.**'' In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_, (to appear). [paper] [slide] <br>
 **Acceptance rate: 147/555 = 26.5%**
 
-1. **Yuta Saito**, Gota Morishita, and Shota Yasui. “[Dual Learning Algorithm for Delayed Conversions.](https://arxiv.org/abs/1910.01847)'' In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_, (to appear). <br>
+1. <u>Yuta Saito</u>, Gota Morishita, and Shota Yasui. “**Dual Learning Algorithm for Delayed Conversions.**'' In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_, (to appear). [[paper](https://arxiv.org/abs/1910.01847)] <br>
 **Acceptance rate (short paper): 153/507 = 30.2%**
 
 1. **Yuta Saito**, Hayato Sakata, and Kazuhide Nakata. “[Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments.](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.46)'' In _Proceedings of the 2020 SIAM International Conference on Data Mining ([SDM2020](https://www.siam.org/conferences/cm/conference/sdm20))_. <br>
