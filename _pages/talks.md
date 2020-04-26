@@ -5,12 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Conference Oral Presentations
+## *Conference Oral Presentations*
 
 1. [International Conference on Web Search and Data Mining (WSDM20)](https://www.wsdm-conference.org/2020/) <br>
-   “_Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback_'' <br>
-   Feb 04, 2020. <br>
-    [[slide](https://usaito.github.io/files/relmf-slide.pdf)]
+   “_Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback_''
+   Feb 04, 2020. [[slide](https://usaito.github.io/files/relmf-slide.pdf)]
 
 2. [NeurIPS 2019 Workshop on Causal Machine Learning (CausalML)](http://tripods.cis.cornell.edu/neurips19_causalml/) <br>
    “_Unbiased Pairwise Learning from Implicit Feedback_'' <br>
@@ -20,7 +19,7 @@ author_profile: true
    “_Doubly Robust Prediction and Evaluation Methods Improve Uplift Modeling for Observational Data_''  <br>
     May 03, 2019.
 
-## Invited and Technical Talks
+## *Invited and Technical Talks*
 
 1.  Gunocy Inc.  <br>
     “_Unbiased Recommender Learning from Biased Implicit Feedback and Beyond_''  <br>
@@ -29,7 +28,7 @@ author_profile: true
 2.  [Counterfactual Machine Learning Seminar#4](https://cfml.connpass.com/event/155167/)  <br>
     “_Unbiased Recommender Learning from Biased Implicit Feedback_''  <br>
      Dec. 23, 2019.
-    [[slide](https://usaito.github.io/files/191223_CFML_study.pdf)]
+     [[slide](https://usaito.github.io/files/191223_CFML_study.pdf)]
 
 3.  ZOZO Technologies, Inc.  <br>
     “_Recent Topics on Counterfactual Machine Learning_''  <br>
@@ -45,12 +44,12 @@ author_profile: true
 
 6.  Sony Corporation <br>
     “_Recent Topics on Counterfactual Machine Learning_'' <br>
-    Jul 25, 2019
+    Jul 25, 2019.
     [[slide](https://usaito.github.io/files/190729_sonyRD.pdf)]
 
 7.  [Counterfactual Machine Learning Seminar#1](https://connpass.com/event/128714/) <br>
     “_Debiasing Recommender Systems using Methods of Causal Inference_'' <br>
-    Jul 10, 2019. <br>
+    Jul 10, 2019.
     [[slide](https://usaito.github.io/files/190710_CFML_study.pdf)]
 
 8.  Recruit, Data Science Team <br>
