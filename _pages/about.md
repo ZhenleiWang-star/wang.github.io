@@ -17,7 +17,7 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 # Research Interests
 - Counterfactual Machine Learning
     - Offline evaluation of bandit policies
-    - De-biasing recommender systems
+    - Debiasing recommender systems
     - Unbiased Learning-to-Rank
 - Causal Inference
 - Information Retrieval
