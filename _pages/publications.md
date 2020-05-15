@@ -34,12 +34,6 @@ Acceptance rate: 90/397 = 22.7%
 
 1. <u>Yuta Saito</u>. “**Dual Matrix Factorization for Recommendation with Missing-Not-At-Random Implicit Feedback**''.
 
-2. <u>Yuta Saito</u>. “**Unbiased Recommender Learning from Biased Graded Implicit Feedback**''.
+2. <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _arXiv preprint arXiv:1910.07295._ [[paper](https://arxiv.org/abs/1910.07295)]
 
-3. <u>Yuta Saito</u>. “**Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions**''.
-
-4. <u>Yuta Saito</u>. “**Unbiased Pairwise Learning from Biased Implicit Feedback**''.
-
-3. <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _arXiv preprint arXiv:1910.07295._ [[paper](https://arxiv.org/abs/1910.07295)]
-
-5. <u>Yuta Saito</u> and Shota Yasui. “**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models.**'' _arXiv preprint arXiv:1909.05299._ [[paper](https://arxiv.org/abs/1909.05299)]
+3. <u>Yuta Saito</u> and Shota Yasui. “**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models.**'' _arXiv preprint arXiv:1909.05299._ [[paper](https://arxiv.org/abs/1909.05299)]
