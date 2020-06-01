@@ -7,6 +7,9 @@ author_profile: true
 
 ## _Refereed Conference Papers_
 
+1. <u>Yuta Saito</u>. “**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**'', In _Proceedings of 37th International Conference on Machine Learning (ICML2020)_, (to appear). [[preprint](https://usaito.github.io/files/ICML2020_CFCV.pdf)] [video] [poster] <br>
+Acceptance rate: 1088/4990 = 21.8%
+
 1. <u>Yuta Saito</u>. “**Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback**'', In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_, (to appear). [[preprint](https://usaito.github.io/files/SIGIR2020_ATMF.pdf)] [slide] <br>
 Acceptance rate: 147/555 = 26.5%
 
@@ -24,15 +27,13 @@ Acceptance rate: 90/397 = 22.7%
 
 ## _Refereed Workshop Papers_
 
-1.  <u>Yuta Saito</u>. “**Unsupervised Domain Adaptation Meets Offline Recommender Learning**'', _The first forum for newcomers to ML co-located with NeurIPS ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
+1.  <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _The first forum for newcomers to ML co-located with NeurIPS ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
 
 2.  <u>Yuta Saito</u>. “**Unbiased Pairwise Learning from Implicit Feedback**'', _NeurIPS 2019 Workshop on Causal Machine Learning ([CausalML2019](http://tripods.cis.cornell.edu/neurips19_causalml/))_. [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)] [[poster](https://drive.google.com/open?id=1th8dMxYBVZEpXh2y1SxyJw9d74EqZxyD)]
-
-3.  <u>Yuta Saito</u> and Shota Yasui. “**Counterfactual Cross-Validation**'', _ACM RecSys 2019 Workshop on Reinforcement and Robust Estimators for Recommendation ([REVEAL2019](https://sites.google.com/view/reveal2019/))_. [[poster](https://usaito.github.io/files/cfcv_ws_poster.pdf)]
 
 ## _Preprints and Under Review Papers_
 
 
 1. <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _arXiv preprint arXiv:1910.07295._ [[paper](https://arxiv.org/abs/1910.07295)]
 
-2. <u>Yuta Saito</u> and Shota Yasui. “**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models.**'' _arXiv preprint arXiv:1909.05299._ [[paper](https://arxiv.org/abs/1909.05299)]
+2. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). “**Multi-Source Unsupervised Hyperparameter Optimization**''.
