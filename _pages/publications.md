@@ -7,7 +7,7 @@ author_profile: true
 
 ## _Refereed Conference Papers_
 
-1. <u>Yuta Saito</u>. “**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**'', In _Proceedings of 37th International Conference on Machine Learning (ICML2020)_, (to appear). [[preprint](https://usaito.github.io/files/ICML2020_CFCV.pdf)] [video] <br>
+1. <u>Yuta Saito</u>. “**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**'', In _Proceedings of 37th International Conference on Machine Learning (ICML2020)_, (to appear). [[preprint](https://usaito.github.io/files/ICML2020_CFCV.pdf)] [[slide](https://usaito.github.io/files/cfcv-slide.pdf)] <br>
 Acceptance rate: 1088/4990 = 21.8%
 
 1. <u>Yuta Saito</u>. “**Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback**'', In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_, (to appear). [[preprint](https://usaito.github.io/files/SIGIR2020_ATMF.pdf)] [slide] <br>
