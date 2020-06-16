@@ -29,11 +29,11 @@ Acceptance rate: 90/397 = 22.7%
 
 1.  <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _The first forum for newcomers to ML co-located with NeurIPS ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
 
-2.  <u>Yuta Saito</u>. “**Unbiased Pairwise Learning from Implicit Feedback**'', _NeurIPS 2019 Workshop on Causal Machine Learning ([CausalML2019](http://tripods.cis.cornell.edu/neurips19_causalml/))_. [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)] [[poster](https://drive.google.com/open?id=1th8dMxYBVZEpXh2y1SxyJw9d74EqZxyD)]
+2.  <u>Yuta Saito</u>. “**Unbiased Pairwise Learning from Implicit Feedback**'', _NeurIPS 2019 Workshop on Causal Machine Learning ([CausalML2019](http://tripods.cis.cornell.edu/neurips19_causalml/))_. [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)]
 
-## _Preprints and Under Review Papers_
+3. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). “**Multi-Source Unsupervised Hyperparameter Optimization**'', _ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_, 2020. <br>
+Acceptance rate: 37/63 = 58.7%
 
+<!-- 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, <u>Yuta Saito</u>, and Akira Matsui. ``**Unbiased Lift-based Bidding System**'', [paper]()
 
-1. <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _arXiv preprint arXiv:1910.07295._ [[paper](https://arxiv.org/abs/1910.07295)]
-
-2. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). “**Multi-Source Unsupervised Hyperparameter Optimization**''.
+2. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. “**A Large-scale Open Dataset for Bandit Algorithms**'', [paper]() -->
