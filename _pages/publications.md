@@ -31,7 +31,7 @@ Acceptance rate: 90/397 = 22.7%
 
 2.  <u>Yuta Saito</u>. “**Unbiased Pairwise Learning from Implicit Feedback**'', _NeurIPS 2019 Workshop on Causal Machine Learning ([CausalML2019](http://tripods.cis.cornell.edu/neurips19_causalml/))_. [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)]
 
-3. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). “**Multi-Source Unsupervised Hyperparameter Optimization**'', _ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_, 2020. <br>
+3. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). “**Multi-Source Unsupervised Hyperparameter Optimization**'', _ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_, 2020. [[paper](https://arxiv.org/abs/2006.10600)] [poster] <br>
 Acceptance rate: 37/63 = 58.7%
 
 <!-- 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, <u>Yuta Saito</u>, and Akira Matsui. ``**Unbiased Lift-based Bidding System**'', [paper]()
