@@ -27,7 +27,7 @@ Acceptance rate: 90/397 = 22.7%
 
 ## _Refereed Workshop Papers_
 
-1.  <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _The first forum for newcomers to ML co-located with NeurIPS ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
+1.  <u>Yuta Saito</u>. “**Offline Recommender Learning Meets Unsupervised Domain Adaptation**'', _The first forum for newcomers to ML co-located with NeurIPS ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. [[paper](https://arxiv.org/abs/1910.07295)] [[poster](https://usaito.github.io/files/damf_ws_poster.pdf)]
 
 2.  <u>Yuta Saito</u>. “**Unbiased Pairwise Learning from Implicit Feedback**'', _NeurIPS 2019 Workshop on Causal Machine Learning ([CausalML2019](http://tripods.cis.cornell.edu/neurips19_causalml/))_. [[slide](https://drive.google.com/open?id=1IkdS2nopkVDe3moUOI0W8MED3NSzvwk7)]
 
