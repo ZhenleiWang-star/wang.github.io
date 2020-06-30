@@ -31,7 +31,9 @@ In _Proceedings of the 43rd International ACM SIGIR Conference on Research and D
 [[paper](https://arxiv.org/abs/1910.01847)] [slides] <br>
 Acceptance rate (short paper): 153/507 = 30.2%
 
-1. <u>Yuta Saito</u>, Hayato Sakata, and Kazuhide Nakata. “**Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**''. In _Proceedings of the 2020 SIAM International Conference on Data Mining ([SDM2020](https://www.siam.org/conferences/cm/conference/sdm20))_. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.46)] [[supplementary material](https://usaito.github.io/files/varts.pdf)] <br>
+1. <u>Yuta Saito</u>, Hayato Sakata, and Kazuhide Nakata. “**Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**''.
+In _Proceedings of the 2020 SIAM International Conference on Data Mining ([SDM2020](https://www.siam.org/conferences/cm/conference/sdm20))_.
+[[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.46)] [[supplementary material](https://usaito.github.io/files/varts.pdf)] <br>
 Acceptance rate: 75/312 = 24.0%
 
 1. <u>Yuta Saito</u>, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata.
@@ -87,11 +89,12 @@ Acceptance rate: 90/397 = 22.7% -->
 ## _Refereed Workshop Papers_
 
 1. <u>Yuta Saito</u>. "**Offline Recommender Learning Meets Unsupervised Domain Adaptation**''.
-_The first forum for newcomers to ML co-located with NeurIPS ([NewInML2019](https://nehzux.github.io/NewInML2019/))_
+_The first forum for newcomers to ML co-located with NeurIPS ([NewInML2019](https://nehzux.github.io/NewInML2019/))_.
 [[arXiv](https://arxiv.org/abs/1910.07295)]
 
 1. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). "**Multi-Source Unsupervised Hyperparameter Optimization**''.
-_ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_, 2020. [[arXiv](https://arxiv.org/abs/2006.10600)] <br>
+_ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_.
+[[arXiv](https://arxiv.org/abs/2006.10600)] <br>
 Acceptance rate: 37/63 = 58.7%
 
 <!--
