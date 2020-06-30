@@ -9,7 +9,7 @@ author_profile: true
 
 1. <u>Yuta Saito</u>.
 "**Unbiased Pairwise Learning from Biased Implicit Feedback**''.
-In *Proceedings of 6th ACM SIGIR International Conference on the Theory of Information Retrieval* ([ICTIR2020](https://ictir2020.org/#about)).
+In _Proceedings of 6th ACM SIGIR International Conference on the Theory of Information Retrieval ([ICTIR2020](https://ictir2020.org/))_.
 [[preprint](https://usaito.github.io/files/ICTIR2020_UBPR.pdf)] [[code](https://github.com/usaito/unbiased-pairwise-rec)] <br>
 Acceptance rate (full paper): 17/42 = 40.5%
 
