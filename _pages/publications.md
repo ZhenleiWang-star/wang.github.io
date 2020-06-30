@@ -9,13 +9,13 @@ author_profile: true
 
 
 1. <u>Yuta Saito</u>. <br>
-"**Unbiased Pairwise Learning from Biased Implicit Feedback**'' <br>
+**Unbiased Pairwise Learning from Biased Implicit Feedback**. <br>
 _International Conference on the Theory of Information Retrieval ([ICTIR2020](https://ictir2020.org/))_.  (Acceptance rate=40.5%) <br>
 [[preprint](https://usaito.github.io/files/ICTIR2020_UBPR.pdf)] [[code](https://github.com/usaito/unbiased-pairwise-rec)] <br>
 <!-- Acceptance rate: 17/42 = 21.8% -->
 
 1. <u>Yuta Saito</u> and Shota Yasui. <br>
-“**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**'' <br>
+**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**. <br>
 _International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (Acceptance rate=21.8%)<br>
 [[preprint](https://usaito.github.io/files/ICML2020_CFCV.pdf)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/cfcv-slide.pdf)] <br>
 <!-- Acceptance rate: 1088/4990 = 21.8% -->
