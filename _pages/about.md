@@ -24,7 +24,7 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 - Unsupervised Domain Adaptation
 
 # News
-- 2020.06: My paper: "Unbiased Pairwise Learning from Biased Implicit Feedback" has been accepted by [ICTIR'20](https://ictir2020.org/#about).
+- 2020.06: My paper: "Unbiased Pairwise Learning from Biased Implicit Feedback" has been accepted by [ICTIR'20](https://ictir2020.org).
 - 2020.06: Our paper: "Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models" has been accepted by [ICML'20](https://icml.cc/).
 - 2020.04: My Solo paper: "Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback" has been accepted by [SIGIR'20](https://sigir.org/sigir2020/).
 - 2020.04: Our paper: " Dual Learning Algorithm for Delayed Conversions" has been accepted by [SIGIR'20](https://sigir.org/sigir2020/).

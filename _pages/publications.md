@@ -22,7 +22,7 @@ _International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (
 
 1. <u>Yuta Saito</u>. <br>
 **Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback**. <br>
-_International Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_. (Acceptance rate= 26.5%) <br>
+_International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_. (Acceptance rate= 26.5%) <br>
 [[preprint](https://usaito.github.io/files/SIGIR2020_ATMF.pdf)] [[code](https://github.com/usaito/asymmetric-tri-rec-real)] [slides] <br>
 <!-- Acceptance rate (full paper): 147/555 = 26.5% -->
 
