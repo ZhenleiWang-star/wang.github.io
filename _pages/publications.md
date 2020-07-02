@@ -94,7 +94,8 @@ Acceptance rate: 90/397 = 22.7% -->
 _The forum for newcomers to ML (co-located with NeurIPS) ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. <br>
 [[arXiv](https://arxiv.org/abs/1910.07295)]
 
-1. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). <br> **Multi-Source Unsupervised Hyperparameter Optimization**. <br>
+1. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). <br>
+**Multi-Source Unsupervised Hyperparameter Optimization**. <br>
 _ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_. (Acceptance rate=58.7%) <br>
 [[arXiv](https://arxiv.org/abs/2006.10600)] <br>
 
@@ -107,3 +108,15 @@ _ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google
 **A Large-scale Open Dataset for Bandit Algorithms**.  <br>
 [[arXiv]]() [[code]()]
 -->
+
+
+<!-- ## _Others_
+
+1. <u>Yuta Saito</u>.  <br>
+**Counterfactual Machine Learning**. (Japanese) <br>
+<br>
+[[link]()]
+
+1. Yusuke Narita, Shunsuke Aihara, <u>Yuta Saito</u>, Megumi Matsutani, and Kehei Yata.
+**Almost Every Machine Learning Is A/B Testing**. (Japanese) <br>
+[[link]()] -->
