@@ -6,7 +6,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Publications (in Japanese)"
+  - title: "Publications (Japanese)"
     url: /publications_jn/
 
   - title: "Talks"
@@ -18,5 +18,5 @@ main:
   - title: "Blog"
     url: https://usaito.hatenablog.com/
 
-  - title: "Qiita"
-    url: https://qiita.com/usaito/
+  # - title: "Qiita"
+  #   url: https://qiita.com/usaito/

@@ -108,16 +108,3 @@ _ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google
 **A Large-scale Open Dataset for Bandit Algorithms**.  <br>
 [[arXiv]]() [[code]()]
 -->
-
-
-## _Publication (in Japanese)_
-
-1. <u>Yuta Saito</u>.  <br>
-**私のブックマーク：反実仮想機械学習 (Counterfactual Machine Learning, CFML)**. (Japanese) <br>
-人工知能, Vol.35, No.4, pages 579--587, 2020. <br>
-[[link]()]
-
-1. 成田 悠輔, 粟飯原 俊介, <u>齋藤 優太</u>, 松谷 恵, and 矢田 紘平.
-**すべての機械学習は A/B テストである (Almost Every Machine Learning Is A/B Testing)**. <br>
-人工知能, Vol.35, No.4, pages 517--525, 2020. <br>
-[[link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=10761&item_no=1&page_id=13&block_id=23)]
