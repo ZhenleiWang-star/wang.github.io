@@ -96,7 +96,7 @@ AdKDD & TargetAd 2020 Workshop (held in conjunction with KDD2020) ([AdKDD2020](h
 
 1. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). <br>
 **Multi-Source Unsupervised Hyperparameter Optimization**. <br>
-_ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_. (Acceptance rate=58.7%) <br>
+_ICML 2020 Workshop on Automated Machine Learning ([AutoML2020](https://sites.google.com/view/automl2020/home?authuser=0))_. (Acceptance rate=58.7%) <br>
 [[arXiv](https://arxiv.org/abs/2006.10600)]
 
 
