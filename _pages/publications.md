@@ -91,7 +91,7 @@ Acceptance rate: 90/397 = 22.7% -->
 
 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, <u>Yuta Saito</u>, and Akira Matsui. <br>
 **Unbiased Lift-based Bidding System**. <br>
-AdKDD & TargetAd 2020 Workshop (held in conjunction with KDD2020) ([AdKDD2020](https://www.adkdd.org/)) <br>
+_AdKDD & TargetAd 2020 Workshop (held in conjunction with KDD2020) ([AdKDD2020](https://www.adkdd.org/))_ <br>
 [preprint]
 
 1. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). <br>
