@@ -91,7 +91,7 @@ Acceptance rate: 90/397 = 22.7% -->
 
 1. <u>Yuta Saito</u>.  <br>
 **Offline Recommender Learning Meets Unsupervised Domain Adaptation**. <br>
-_The forum for newcomers to ML (co-located with NeurIPS) ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. <br>
+_The forum for newcomers to ML (held in conjunction with NeurIPS2019) ([NewInML2019](https://nehzux.github.io/NewInML2019/))_. <br>
 [[arXiv](https://arxiv.org/abs/1910.07295)]
 
 1. Masahiro Nomura and <u>Yuta Saito</u> (equal contribution). <br>
@@ -99,12 +99,13 @@ _The forum for newcomers to ML (co-located with NeurIPS) ([NewInML2019](https://
 _ICML 2020 Workshop on Automated Machine Learning ([AutoML](https://sites.google.com/view/automl2020/home?authuser=0))_. (Acceptance rate=58.7%) <br>
 [[arXiv](https://arxiv.org/abs/2006.10600)] <br>
 
-<!--
+
 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, <u>Yuta Saito</u>, and Akira Matsui <br>.
 **Unbiased Lift-based Bidding System**. <br>
-[[preprint]]()
+AdKDD & TargetAd 2020 Workshop (held in conjunction with KDD2020) ([AdKDD2020](https://www.adkdd.org/)) <br>
+[preprint]
 
-1. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
+<!-- 1. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
 **A Large-scale Open Dataset for Bandit Algorithms**.  <br>
-[[arXiv]]() [[code]()]
--->
+[[arXiv]]() [[code]()] -->
+
