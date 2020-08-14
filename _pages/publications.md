@@ -10,8 +10,7 @@ author_profile: true
 1. <u>Yuta Saito</u>. <br>
 **Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions**. <br>
 _ACM Conference on Recommender Systems ([RecSys2020](https://recsys.acm.org/recsys20/))_. (Acceptance rate=17.9%) <br>
-[preprint] [code]
-<!-- [[preprint](https://usaito.github.io/files/RecSys2020_DRMetric.pdf)] [[code](https://github.com/usaito/doubly-robust-ranking-evaluation)] <br> -->
+[[preprint](https://usaito.github.io/files/RecSys2020_DRMetric.pdf)] [[code](https://github.com/usaito/doubly-robust-ranking-evaluation)] <br>
 <!-- Acceptance rate: 17/42 = 21.8% -->
 
 1. <u>Yuta Saito</u>. <br>
@@ -29,13 +28,13 @@ _International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (
 1. <u>Yuta Saito</u>. <br>
 **Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback**. <br>
 _International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_. (Acceptance rate=26.5%) <br>
-[[preprint](https://usaito.github.io/files/SIGIR2020_ATMF.pdf)] [[code](https://github.com/usaito/asymmetric-tri-rec-real)] [[slides](https://usaito.github.io/files/SIGIR2020_ATMF_slides.pdf)] <br>
+[[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401114)] [[code](https://github.com/usaito/asymmetric-tri-rec-real)] [[slides](https://usaito.github.io/files/SIGIR2020_ATMF_slides.pdf)] <br>
 <!-- Acceptance rate (full paper): 147/555 = 26.5% -->
 
 1. <u>Yuta Saito</u>, Gota Morishita, and Shota Yasui. <br>
 **Dual Learning Algorithm for Delayed Conversions**. <br>
-_International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_. (Acceptance rate of short paper=30.2%) <br>
-[[paper](https://arxiv.org/abs/1910.01847)] [[slides](https://usaito.github.io/files/SIGIR2020_DALDF_slides.pdf)] <br>
+_International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2020](https://sigir.org/sigir2020/))_. (Acceptance rate of short paper=30.0%) <br>
+[[paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401282)] [[slides](https://usaito.github.io/files/SIGIR2020_DALDF_slides.pdf)] <br>
 <!-- Acceptance rate (short paper): 153/507 = 30.2% -->
 
 1. <u>Yuta Saito</u>, Hayato Sakata, and Kazuhide Nakata. <br> **Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments**. <br>
