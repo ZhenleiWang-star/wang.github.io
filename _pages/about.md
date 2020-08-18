@@ -24,6 +24,7 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 - Unsupervised Domain Adaptation
 
 # News
+- 2020.08: We release [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).
 - 2020.07: My solo paper: "Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions" has been accepted by [RecSys2020](https://recsys.acm.org/recsys20/).
 - 2020.06: Our paper: "Unbiased Lift-based Bidding System" has been accepted by [AdKDD2020](https://www.adkdd.org/).
 - 2020.06: My solo paper: "Unbiased Pairwise Learning from Biased Implicit Feedback" has been accepted by [ICTIR2020](https://ictir2020.org).

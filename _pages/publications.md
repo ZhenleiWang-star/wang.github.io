@@ -10,7 +10,7 @@ author_profile: true
 1. <u>Yuta Saito</u>. <br>
 **Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions**. <br>
 _ACM Conference on Recommender Systems ([RecSys2020](https://recsys.acm.org/recsys20/))_. (Acceptance rate=17.9%) <br>
-[[preprint](https://usaito.github.io/files/RecSys2020_DRMetric.pdf)] [[code](https://github.com/usaito/doubly-robust-ranking-evaluation)] <br>
+[[preprint](https://usaito.github.io/files/RecSys2020_DRMetric.pdf)] [[code](https://github.com/usaito/doubly-robust-ranking-metric)] <br>
 <!-- Acceptance rate: 17/42 = 21.8% -->
 
 1. <u>Yuta Saito</u>. <br>
@@ -57,10 +57,10 @@ _SIAM International Conference on Data Mining ([SDM2019](https://www.siam.org/co
 
 ## _Refereed Workshop Papers_
 
-<!-- 1. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
+1. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
 **A Large-scale Open Dataset for Bandit Algorithms**.  <br>
 _ICML 2020 Workshop on Real World Experiment Design and Active Learning ([RealML2020](https://realworldml.github.io/))_. <br>
-[[arXiv]]() [[code](https://github.com/st-tech/zr-obp)] -->
+[[arXiv](https://arxiv.org/abs/2008.07146)] [[package](https://github.com/st-tech/zr-obp)] [[dataset](https://research.zozo.com/data.html)]
 
 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, <u>Yuta Saito</u>, and Akira Matsui. <br>
 **Unbiased Lift-based Bidding System**. <br>
