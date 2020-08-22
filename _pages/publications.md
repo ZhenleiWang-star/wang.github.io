@@ -57,6 +57,10 @@ _SIAM International Conference on Data Mining ([SDM2019](https://www.siam.org/co
 
 ## _Refereed Workshop Papers_
 
+1. <u>Yuta Saito</u>, Takuma Udagawa, and Kei Tateno. <br>
+**Data-Driven Off-Policy Estimator Selection: An Ap- plication in User Marketing on An Online Content Delivery Service**.  <br>
+_RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interactions ([REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)), 2020._.
+
 1. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
 **A Large-scale Open Dataset for Bandit Algorithms**.  <br>
 _ICML 2020 Workshop on Real World Experiment Design and Active Learning ([RealML2020](https://realworldml.github.io/))_. <br>
