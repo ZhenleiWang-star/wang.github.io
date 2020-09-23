@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## _Refereed Conference Papers_
+## International Conference Proceedings (Refereed)
 
 1. <u>Yuta Saito</u>. <br>
 **Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions**. <br>
@@ -47,7 +47,7 @@ _SIAM International Conference on Data Mining ([SDM2019](https://www.siam.org/co
 [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.53)] [[supplementary material](https://usaito.github.io/files/SDM19_appendix.pdf)] <br>
 
 
-## _Refereed Workshop Papers_
+## Workshop Papers (Refereed)
 
 1. <u>Yuta Saito</u>, Takuma Udagawa, and Kei Tateno. <br>
 **Data-Driven Off-Policy Estimator Selection: An Application in User Marketing on An Online Content Delivery Service**.  <br>

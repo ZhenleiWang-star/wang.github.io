@@ -25,8 +25,8 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 - Statistical Learning Theory
 
 # Educations
-- 2016 - Present: Tokyo Institute of Technology, B.Eng. in Industrial Engineering and Economics
-(Research Field: Counterfactual Machine Learning, Causal Inference, Information Retrieval)
+**2016 - Present**: Tokyo Institute of Technology <br>
+B.Eng. in Industrial Engineering and Economics
 
 # News
 - 2020.08: We release [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).
