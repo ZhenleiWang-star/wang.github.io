@@ -65,10 +65,10 @@ author_profile: true
 
 Off-Policy Evaluationの現実的で再現可能な性能評価を可能にするための公開データセットとOSS
 
-論文: https://arxiv.org/abs/2008.07146
-Open Bandit Pipeline (oss): https://github.com/st-tech/zr-obp
-Open Bandit Dataset: https://research.zozo.com/data.html
-プレスリリース: https://corp.zozo.com/news/20200818-11223/
-ブログ記事: https://techblog.zozo.com/entry/openbanditproject
-スライド資料: https://speakerdeck.com/usaito/off-policy-evaluationfalseji-chu-toopen-bandit-dataset-and-pipelinefalseshao-jie
+[[論文](https://arxiv.org/abs/2008.07146)]
+[[Open Bandit Pipeline (oss)](https://github.com/st-tech/zr-obp)]
+[[Open Bandit Dataset](https://research.zozo.com/data.html)]
+[[プレスリリース](https://corp.zozo.com/news/20200818-11223/)]
+[[ブログ記事](https://techblog.zozo.com/entry/openbanditproject)]
+[[スライド資料](https://speakerdeck.com/usaito/off-policy-evaluationfalseji-chu-toopen-bandit-dataset-and-pipelinefalseshao-jie)]
 
