@@ -6,17 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Publications (Japanese)"
-    url: /publications_jn/
+  - title: "Others"
+    url: /others/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Japanese"
+    url: /japanese/
 
-  - title: "Slides"
-    url: https://speakerdeck.com/usaito
-
-  - title: "Blog"
+  - title: "Blog (Japanese)"
     url: https://usaito.hatenablog.com/
-
-  # - title: "Qiita"
-  #   url: https://qiita.com/usaito/
