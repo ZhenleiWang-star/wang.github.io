@@ -58,6 +58,7 @@ author_profile: true
 - CFML勉強会: [第1回](https://cfml.connpass.com/event/128714/), [第3回](https://cfml.connpass.com/event/150818/), [第4回](https://cfml.connpass.com/event/155167/), [第5回](https://cfml.connpass.com/event/183154/)
 - ICML論文読み会: [2020（因果推論系論文）](https://cfml.connpass.com/event/179600/)
 - RecSys論文読み会: 2018, [2019](https://connpass.com/event/148001/), [2020](https://connpass.com/event/184183/)
+- Machine learning papers reading pitch: [第1回](https://machine-learning-pitch.connpass.com/event/127956/), [第3回](https://machine-learning-pitch.connpass.com/event/130999/), [第5回](https://machine-learning-pitch.connpass.com/event/137427/)
 
 ## オープンソースプロジェクト
 
