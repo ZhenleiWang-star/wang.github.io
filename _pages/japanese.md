@@ -10,6 +10,11 @@ author_profile: true
 ## プロフィール
 半熟仮想株式会社 共同創業者兼科学統括。東京工業大学 学士課程4年。主に因果推論と機械学習の融合技術を用いた情報検索システムのバイアス除去に関する研究を行う。ICML, RecSys, SIGIR, WSDM, SDMなどの機械学習・データマイニングのトップ国際会議にてに査読付学術論文を発表。また、CyberAgent, Sony, ZOZO, SMNなどの国内企業と連携して、因果推論 x 機械学習領域の社会実装や理論と実践の溝を埋めるための研究を進めている。
 
+## News
+- 2020年12月3-5日に開催される[第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)で招待講演します。
+- 2020年10月31日に開催される[IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)で招待講演します。
+- 2020年9月26日に開催されたRecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interactions ([REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0))で口頭発表しました。
+
 ## 研究領域
 - 反実仮想機械学習
   - オフ方策評価（バンディット・強化学習）
@@ -24,7 +29,26 @@ author_profile: true
 - 2016年3月：北海道立根室高等学校 卒業
 
 
-## 執筆（日本語）
+## 論文
+
+### 英語 (selected)
+
+1. <u>Yuta Saito</u>. <br>
+**Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions**. <br>
+_ACM Conference on Recommender Systems ([RecSys2020](https://recsys.acm.org/recsys20/))_. (Acceptance rate=17.9%) <br>
+[[paper](https://dl.acm.org/doi/abs/10.1145/3383313.3412262)] [[code](https://github.com/usaito/doubly-robust-ranking-metric)] [[slides](https://usaito.github.io/files/RecSys2020_DRMetric_slides.pdf)] <br>
+
+1. <u>Yuta Saito</u> and Shota Yasui. <br>
+**Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**. <br>
+_International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (Acceptance rate=21.8%)<br>
+[[paper](https://proceedings.icml.cc/paper/2020/hash/dc6a70712a252123c40d2adba6a11d84)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
+
+1. <u>Yuta Saito</u>, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata. <br>
+**Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**. <br>
+_International Conference on Web Search and Data Mining ([WSDM2020](http://www.wsdm-conference.org/2020/registration.php))_. (Acceptance rate=14.8%) <br>
+[[paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371783)] [[code](https://github.com/usaito/unbiased-implicit-rec-real)] [[slides](https://usaito.github.io/files/WSDM2020_RELMF_slides.pdf)]
+
+### 日本語
 
 1. <u>齋藤 優太</u>.  <br>
 **私のブックマーク：反実仮想機械学習 (Counterfactual Machine Learning, CFML)**. <br>
@@ -40,12 +64,12 @@ author_profile: true
 ## 招待講演
 
 ### 学術
-- 第5回 統計・機械学習若手シンポジウム
-- [IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)
+- [第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)（予定）
+- [IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)（予定）
 
 ### 企業
 
-- SMN: 2020年7月, 2020年9月
+- SMN: 2020年6月, 2020年9月
 - グノシー: 2020年3月
 - ZOZOテクノロジーズ: 2019年11月
 - Indeed, Japan: 2019年10月
@@ -56,9 +80,12 @@ author_profile: true
 
 ## 勉強会発表
 - CFML勉強会: [第1回](https://cfml.connpass.com/event/128714/), [第3回](https://cfml.connpass.com/event/150818/), [第4回](https://cfml.connpass.com/event/155167/), [第5回](https://cfml.connpass.com/event/183154/)
-- ICML論文読み会: [2020（因果推論系論文）](https://cfml.connpass.com/event/179600/)
+- ICML論文読み会: [2020](https://cfml.connpass.com/event/179600/)
 - RecSys論文読み会: 2018, [2019](https://connpass.com/event/148001/), [2020](https://connpass.com/event/184183/)
 - Machine learning papers reading pitch: [第1回](https://machine-learning-pitch.connpass.com/event/127956/), [第3回](https://machine-learning-pitch.connpass.com/event/130999/), [第5回](https://machine-learning-pitch.connpass.com/event/137427/)
+
+## 査読
+- International Conference on Artificial Intelligence and Statistics (AISTATS): [2021](http://www.aistats.org/aistats2021/)
 
 ## オープンソースプロジェクト
 
