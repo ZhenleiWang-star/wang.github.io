@@ -13,12 +13,12 @@ author_profile: true
 ## News
 - 2020年12月3-5日に開催される[第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)で招待講演します。
 - 2020年10月31日に開催される[IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)で招待講演します。
-- 2020年9月26日に開催されたRecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interactions ([REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0))で口頭発表しました。
+- 2020年9月26日に開催された[REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)で口頭発表しました。
 
 ## 研究領域
 - 反実仮想機械学習
   - オフ方策評価（バンディット・強化学習）
-  - 推薦システムのバイアス除去
+  - 推薦システムのバイアス除去手法
   - 不偏ランキング学習
 - 統計的因果推論
 - 統計的機械学習
@@ -78,12 +78,6 @@ _International Conference on Web Search and Data Mining ([WSDM2020](http://www.w
 - リクルート: 2019年6月
 - サイバーエージェント: 2019年5月
 
-## 勉強会発表
-- CFML勉強会: [第1回](https://cfml.connpass.com/event/128714/), [第3回](https://cfml.connpass.com/event/150818/), [第4回](https://cfml.connpass.com/event/155167/), [第5回](https://cfml.connpass.com/event/183154/)
-- ICML論文読み会: [2020](https://cfml.connpass.com/event/179600/)
-- RecSys論文読み会: 2018, [2019](https://connpass.com/event/148001/), [2020](https://connpass.com/event/184183/)
-- Machine learning papers reading pitch: [第1回](https://machine-learning-pitch.connpass.com/event/127956/), [第3回](https://machine-learning-pitch.connpass.com/event/130999/), [第5回](https://machine-learning-pitch.connpass.com/event/137427/)
-
 ## 査読
 - International Conference on Artificial Intelligence and Statistics (AISTATS): [2021](http://www.aistats.org/aistats2021/)
 
@@ -100,3 +94,15 @@ Off-Policy Evaluationの現実的で再現可能な性能評価を可能にす�
 [[ブログ記事](https://techblog.zozo.com/entry/openbanditproject)]
 [[スライド資料](https://speakerdeck.com/usaito/off-policy-evaluationfalseji-chu-toopen-bandit-dataset-and-pipelinefalseshao-jie)]
 
+
+## 勉強会発表
+- CFML勉強会: [第1回](https://cfml.connpass.com/event/128714/), [第3回](https://cfml.connpass.com/event/150818/), [第4回](https://cfml.connpass.com/event/155167/), [第5回](https://cfml.connpass.com/event/183154/)
+- ICML論文読み会: [2020](https://cfml.connpass.com/event/179600/)
+- RecSys論文読み会: 2018, [2019](https://connpass.com/event/148001/), [2020](https://connpass.com/event/184183/)
+- Machine learning papers reading pitch: [第1回](https://machine-learning-pitch.connpass.com/event/127956/), [第3回](https://machine-learning-pitch.connpass.com/event/130999/), [第5回](https://machine-learning-pitch.connpass.com/event/137427/)
+
+## 掲載
+- 「[ZOZO研究所、ZOZOTOWNのファッション推薦データとアルゴリズム研究開発基盤をオープンソースで公開](https://corp.zozo.com/news/20200818-11223/)」（プレスリリース）
+- 「[AI Lab経済学チームの論文がKDD2020のワークショップ「AdKDD2020」に採択されました](https://www.cyberagent.co.jp/techinfo/news/detail/id=24978)」（ニュース）
+- 「[AI Lab、機械学習分野のトップカンファレンス「ICML」にて共著論文採択　ー リフトアップ効果を最大限高める、最適な予測モデルを選択する手法を提案 ー](https://www.cyberagent.co.jp/news/detail/id=24892)」（プレスリリース）
+- 「[推薦システム最適化アルゴリズム、「Relevance Matrix Factorization」を開発、Web Search and Data Mining（WSDM ’20）にて発表～学習データのバイアスに囚われず、ユーザーの興味に適したより幅広い商品推薦を実現～](https://www.so-netmedia.jp/topics/news-2020-pr_release_20200205/)」（プレスリリース）
