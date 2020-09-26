@@ -57,7 +57,7 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 **A Large-scale Open Dataset for Bandit Algorithms**.  <br>
 _ICML 2020 Workshop on Real World Experiment Design and Active Learning ([RealML2020](https://realworldml.github.io/))_. <br>
 _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interactions ([REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)), 2020_ (**oral presentation**). <br>
-[[arXiv](https://arxiv.org/abs/2008.07146)] [[package](https://github.com/st-tech/zr-obp)] [[dataset](https://research.zozo.com/data.html)]
+[[arXiv](https://arxiv.org/abs/2008.07146)] [[package](https://github.com/st-tech/zr-obp)] [[dataset](https://research.zozo.com/data.html)] [[slides](https://usaito.github.io/files/REVEAL2020_OpenBandit_slides.pdf)]
 
 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, <u>Yuta Saito</u>, and Akira Matsui. <br>
 **Unbiased Lift-based Bidding System**. <br>
