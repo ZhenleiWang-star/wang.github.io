@@ -14,8 +14,6 @@ I am a fourth-year undergraduate student at Tokyo Institute of Technology. I am 
 My research lies at the intersection of machine learning and causal inference called _counterfactual machine learning_.
 I am interested in the counterfactual nature of logged bandit feedback obtained from interactive systems, and ways of using biased real-world datasets to assist better decision making. Most recently, I have been focusing on bridging the gap between theory and practice in counterfactual machine learning.
 
-**Presentation slides for the contributed talk at the REVEAL workshop are now available [here](https://usaito.github.io/files/REVEAL2020_OpenBandit_slides.pdf)**.
-
 # Research Interests
 - Counterfactual Machine Learning
     - Off-Policy Evaluation (Bandit / Reinforcement Learning)
@@ -28,7 +26,7 @@ I am interested in the counterfactual nature of logged bandit feedback obtained 
 # Educations
 **April 2016 - Present**
 - Department of Industrial Engineering and Economics, Tokyo Institute of Technology
-- Research Interests: Counterfactual Machine Learning, Causal Inference, Recommender Systems
+- Research Interests: Counterfactual Learning, Causal Inference, Recommender Systems
 
 # News
 - 2020.08: We release [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).

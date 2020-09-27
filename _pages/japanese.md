@@ -13,7 +13,7 @@ author_profile: true
 ## News
 - 2020年12月3-5日に開催される[第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)で招待講演します。
 - 2020年10月31日に開催される[IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)で招待講演します。
-- 2020年9月26日に開催された[REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)で口頭発表しました。
+- 2020年9月26日に開催された[REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)で口頭発表しました（[スライド](https://usaito.github.io/files/REVEAL2020_OpenBandit_slides.pdf)）。
 
 ## 研究領域
 - 反実仮想機械学習
