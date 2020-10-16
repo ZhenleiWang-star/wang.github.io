@@ -10,7 +10,7 @@ author_profile: true
 1. <u>Yuta Saito</u>. <br>
 **Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions**. <br>
 _ACM Conference on Recommender Systems ([RecSys2020](https://recsys.acm.org/recsys20/))_. (Acceptance rate=17.9%) <br>
-[[paper](https://dl.acm.org/doi/abs/10.1145/3383313.3412262)] [[code](https://github.com/usaito/doubly-robust-ranking-metric)] [[slides](https://usaito.github.io/files/RecSys2020_DRMetric_slides.pdf)] <br>
+[[paper](https://dl.acm.org/doi/abs/10.1145/3383313.3412262)] [[code](https://github.com/usaito/dr-ranking-metric)] [[slides](https://usaito.github.io/files/RecSys2020_DRMetric_slides.pdf)] <br>
 
 1. <u>Yuta Saito</u>. <br>
 **Unbiased Pairwise Learning from Biased Implicit Feedback**. <br>
