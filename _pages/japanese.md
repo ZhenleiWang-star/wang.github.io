@@ -10,8 +10,6 @@ author_profile: true
 ## プロフィール
 半熟仮想株式会社 共同創業者兼科学統括。東京工業大学 工学院経営工学系 学士課程4年。主に因果推論と機械学習の融合技術を用いたバンディットアルゴリズムのオフライン評価や推薦システムのバイアス除去に関する研究を行う。ICML, RecSys, SIGIR, WSDM, SDMなどの機械学習・データマイニングのトップ国際会議にてに査読付学術論文を発表。また、CyberAgent, Sony, ZOZOテクノロジーズ, SMNなどの国内企業と連携して、因果推論 x 機械学習領域の社会実装や理論と実践の溝を埋めるための研究を進めている。
 
-**2020年10月17日（土）に使用予定の発表資料（暫定版）はこちら：[資料1](https://usaito.github.io/files/recsys-study1.pdf) [資料2](https://usaito.github.io/files/recsys-study2.pdf)**
-
 ## News
 - 2020年12月3-5日に開催される[第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)で招待講演します。
 - 2020年10月31日に開催される[IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)で招待講演します。
