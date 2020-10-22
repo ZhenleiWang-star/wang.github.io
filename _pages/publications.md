@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 1. Nathan Kallus, <u>Yuta Saito</u>, and Masatoshi Uehara. <br>
 **Optimal Off-Policy Evaluation from Multiple Logging Policies** <br>
-_arXiv arXiv preprint arXiv:2010.11002_, 2020.
+_arXiv preprint arXiv:2010.11002_, 2020. <br>
 [[arXiv](https://arxiv.org/abs/2010.11002)]
 
 ## International Conference Proceedings (Refereed)
