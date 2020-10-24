@@ -10,6 +10,8 @@ author_profile: true
 ## プロフィール
 半熟仮想株式会社 共同創業者兼科学統括。東京工業大学 工学院経営工学系 学士課程4年。主に因果推論と機械学習の融合技術を用いたバンディットアルゴリズムのオフライン評価や推薦システムのバイアス除去に関する研究を行う。ICML, RecSys, SIGIR, WSDM, SDMなどの機械学習・データマイニングのトップ国際会議にてに査読付学術論文を発表。また、CyberAgent, Sony, ZOZOテクノロジーズ, SMNなどの国内企業と連携して、因果推論 x 機械学習領域の社会実装や理論と実践の溝を埋めるための研究を進めている。
 
+日本語の履歴書は[こちら](https://usaito.github.io/files/rireki.pdf)
+
 ## News
 - 2020年12月3-5日に開催される[第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)で招待講演します。
 - 2020年10月31日に開催される[IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)で招待講演します。
@@ -85,7 +87,7 @@ _International Conference on Web Search and Data Mining ([WSDM2020](http://www.w
 
 ### Open Bandit Project
 
-Off-Policy Evaluationの現実的で再現可能な性能評価を可能にするための公開データセット (Open Bandit Dataset) とOSS (Open Bandit Pipeline)
+オフ方策評価 (Off-Policy Evaluation) の現実的で再現可能な性能評価を可能にするための公開データセット (Open Bandit Dataset) とOSS (Open Bandit Pipeline) の公開を含むオープンソースプロジェクト
 
 [[論文](https://arxiv.org/abs/2008.07146)]
 [[Open Bandit Pipeline](https://github.com/st-tech/zr-obp)]

@@ -26,7 +26,7 @@ _International Conference on the Theory of Information Retrieval ([ICTIR2020](ht
 1. <u>Yuta Saito</u> and Shota Yasui. <br>
 **Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models** <br>
 _International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (Acceptance rate=21.8%)<br>
-[[paper](https://proceedings.icml.cc/paper/2020/hash/dc6a70712a252123c40d2adba6a11d84)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
+[[paper](https://proceedings.icml.cc/paper/2020/hash/dc6a70712a252123c40d2adba6a11d84-Abstract.html)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
 
 1. <u>Yuta Saito</u>. <br>
 **Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback** <br>
