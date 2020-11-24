@@ -9,9 +9,14 @@ author_profile: true
 1. Nathan Kallus, <u>Yuta Saito</u>, and Masatoshi Uehara. <br>
 **Optimal Off-Policy Evaluation from Multiple Logging Policies** <br>
 _arXiv preprint arXiv:2010.11002_, 2020. <br>
-[[arXiv](https://arxiv.org/abs/2010.11002)]
+[[arXiv](https://arxiv.org/abs/2010.11002)] [[code](https://github.com/CausalML/MultipleLoggers)]
 
-## International Conference Proceedings (Refereed)
+2. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
+**Large-scale Open Dataset, Pipeline, and Benchmark for Bandit Algorithms**  <br>
+_arXiv preprint arXiv:2008.07146_, 2020. <br>
+[[arXiv](https://arxiv.org/abs/2008.07146)] [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
+
+## International Conference Proceedings (refereed)
 
 1. <u>Yuta Saito</u>. <br>
 **Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions** <br>
@@ -26,7 +31,7 @@ _International Conference on the Theory of Information Retrieval ([ICTIR2020](ht
 1. <u>Yuta Saito</u> and Shota Yasui. <br>
 **Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models** <br>
 _International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (Acceptance rate=21.8%)<br>
-[[paper](https://proceedings.icml.cc/paper/2020/hash/dc6a70712a252123c40d2adba6a11d84-Abstract.html)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
+[[paper](http://proceedings.mlr.press/v119/saito20a.html)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
 
 1. <u>Yuta Saito</u>. <br>
 **Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback** <br>
@@ -53,7 +58,7 @@ _SIAM International Conference on Data Mining ([SDM2019](https://www.siam.org/co
 [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.53)] [[supplementary material](https://usaito.github.io/files/SDM19_appendix.pdf)] <br>
 
 
-## Workshop Papers (Refereed)
+## Workshop Papers (refereed)
 
 1. <u>Yuta Saito</u>, Takuma Udagawa, and Kei Tateno. <br>
 **Data-Driven Off-Policy Estimator Selection: An Application in User Marketing on An Online Content Delivery Service**  <br>
@@ -63,7 +68,7 @@ _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interaction
 **A Large-scale Open Dataset for Bandit Algorithms**  <br>
 _ICML 2020 Workshop on Real World Experiment Design and Active Learning ([RealML2020](https://realworldml.github.io/))_. <br>
 _RecSys 2020 Workshop on Bandit and Reinforcement Learning from User Interactions ([REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)), 2020_ (**oral presentation**). <br>
-[[arXiv](https://arxiv.org/abs/2008.07146)] [[package](https://github.com/st-tech/zr-obp)] [[dataset](https://research.zozo.com/data.html)] [[slides](https://usaito.github.io/files/REVEAL2020_OpenBandit_slides.pdf)]
+[[arXiv](https://arxiv.org/abs/2008.07146)] [[software](https://github.com/st-tech/zr-obp)] [[dataset](https://research.zozo.com/data.html)] [[slides](https://usaito.github.io/files/REVEAL2020_OpenBandit_slides.pdf)]
 
 1. Daisuke Moriwaki, Yuta Hayakawa, Isshu Munemasa, <u>Yuta Saito</u>, and Akira Matsui. <br>
 **Unbiased Lift-based Bidding System** <br>
