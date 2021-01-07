@@ -52,6 +52,11 @@ _International Conference on Web Search and Data Mining ([WSDM2020](http://www.w
 
 ### 日本語
 
+1. 成田 悠輔, 粟飯原 俊介, <u>齋藤 優太</u>, 松谷 恵, 矢田 紘平. <br>
+**自然実験としてのアルゴリズム：機械学習・市場設計・公共政策への統一アプローチ**
+RIETI Discussion Paper Series 20-J-045. <br>
+[[ディスカッション・ペーパー](https://www.rieti.go.jp/jp/publications/summary/20120010.html)]
+
 1. <u>齋藤 優太</u>.  <br>
 **私のブックマーク：反実仮想機械学習 (Counterfactual Machine Learning, CFML)**. <br>
 人工知能, Vol.35, No.4, pages 579--587, 2020. <br>
