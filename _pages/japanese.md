@@ -43,7 +43,7 @@ _ACM Conference on Recommender Systems ([RecSys2020](https://recsys.acm.org/recs
 1. <u>Yuta Saito</u> and Shota Yasui. <br>
 **Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models**. <br>
 _International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (Acceptance rate=21.8%)<br>
-[[paper](https://proceedings.icml.cc/paper/2020/hash/dc6a70712a252123c40d2adba6a11d84)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
+[[paper](http://proceedings.mlr.press/v119/saito20a.html)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
 
 1. <u>Yuta Saito</u>, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata. <br>
 **Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback**. <br>
