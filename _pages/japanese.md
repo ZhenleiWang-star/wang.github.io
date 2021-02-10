@@ -86,13 +86,14 @@ RIETI Discussion Paper Series 20-J-045. <br>
 - サイバーエージェント: 2019年5月
 
 ## 査読
+- International Conference on Machine Learning (ICML): [2021](https://icml.cc/Conferences/2021)
 - International Conference on Artificial Intelligence and Statistics (AISTATS): [2021](http://www.aistats.org/aistats2021/)
 
 ## オープンソースプロジェクト
 
 ### Open Bandit Project
 
-オフ方策評価 (Off-Policy Evaluation) の現実的で再現可能な性能評価を可能にするための公開データセット (Open Bandit Dataset) とOSS (Open Bandit Pipeline) の公開を含むオープンソースプロジェクト
+オフ方策評価 (Off-Policy Evaluation) の現実的で再現可能な性能評価を可能にするためのデータセット (Open Bandit Dataset) とOSS (Open Bandit Pipeline) の公開を含むオープンソースプロジェクト
 
 [[論文](https://arxiv.org/abs/2008.07146)]
 [[Open Bandit Pipeline](https://github.com/st-tech/zr-obp)]

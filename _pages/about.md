@@ -11,8 +11,8 @@ redirect_from:
 # About Me
 I am a fourth-year undergraduate student at Tokyo Institute of Technology. I am fortunate to be advised by [Prof. Yusuke Narita](https://www.yusuke-narita.com/) (Yale University) and [Prof. Nathan Kallus](http://www.nathankallus.com/) (Cornell Univeristy) during my undergrad study.
 
-My research lies at the intersection of machine learning and causal inference called _counterfactual machine learning_.
-I am interested in the counterfactual nature of logged bandit feedback obtained from interactive systems, and ways of using biased real-world datasets to assist better decision making. Most recently, I have been focusing on bridging the gap between theory and practice in counterfactual machine learning.
+My research lies at the intersection of machine learning and causal inference called _counterfactual learning_.
+I am interested in the counterfactual nature of logged bandit feedback obtained from interactive systems, and ways of using biased real-world datasets to assist safe and better decision making in the wild.
 
 # Research Interests
 - Counterfactual Machine Learning

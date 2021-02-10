@@ -12,7 +12,7 @@ _arXiv preprint arXiv:2010.11002_, 2020. <br>
 [[arXiv](https://arxiv.org/abs/2010.11002)] [[code](https://github.com/CausalML/MultipleLoggers)]
 
 2. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
-**Large-scale Open Dataset, Pipeline, and Benchmark for Bandit Algorithms**  <br>
+**Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation**  <br>
 _arXiv preprint arXiv:2008.07146_, 2020. <br>
 [[arXiv](https://arxiv.org/abs/2008.07146)] [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
 
