@@ -9,26 +9,27 @@ redirect_from:
 ---
 
 # About Me
-I am a fourth-year undergraduate student at Tokyo Institute of Technology. I am fortunate to be advised by [Prof. Yusuke Narita](https://www.yusuke-narita.com/) (Yale University) and [Prof. Nathan Kallus](http://www.nathankallus.com/) (Cornell Univeristy) during my undergrad study.
+I am a senior undergraduate student at Tokyo Institute of Technology. I am fortunate to be advised by [Prof. Yusuke Narita](https://www.yusuke-narita.com/) (Yale University) and [Prof. Nathan Kallus](http://www.nathankallus.com/) (Cornell Univeristy) during my undergrad study.
 
 My research lies at the intersection of machine learning and causal inference called _counterfactual learning_.
 I am interested in the counterfactual nature of logged bandit feedback obtained from interactive systems, and ways of using biased real-world datasets to assist safe and better decision making in the wild.
 
 # Research Interests
-- Counterfactual Machine Learning
+- Counterfactual Learning and Evaluation
     - Off-Policy Evaluation (Bandit / Reinforcement Learning)
-    - Debiasing method for recommender systems
+    - Offline Recommender Learning
     - Unbiased Learning-to-Rank
 - Causal Inference
 - Information Retrieval
 - Statistical Learning Theory
 
 # Educations
-**April 2016 - Present**
+**April 2016 - March 2021**
 - Department of Industrial Engineering and Economics, Tokyo Institute of Technology
 - Research Interests: Counterfactual Learning, Causal Inference, Recommender Systems
 
 # News
+- 2021.03: I made an invited talk on the Open Bandit Project at the Tiger Talk (RMIT University)
 - 2020.08: We release [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).
 - 2020.07: My solo paper: "Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions" has been accepted by [RecSys2020](https://recsys.acm.org/recsys20/).
 - 2020.06: Our paper: "Unbiased Lift-based Bidding System" has been accepted by [AdKDD2020](https://www.adkdd.org/).

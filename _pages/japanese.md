@@ -8,7 +8,7 @@ author_profile: true
 # 齋藤優太 (Yuta Saito)
 
 ## プロフィール
-半熟仮想株式会社 科学統括・東京工業大学 工学院経営工学系 学士課程4年。主に因果推論と機械学習の融合技術を用いたバンディットアルゴリズムのオフライン評価や推薦システムのバイアス除去に関する研究を行う。ICML, RecSys, SIGIR, WSDM, SDMなどの機械学習・データマイニングのトップ国際会議にてに査読付学術論文を発表。また、CyberAgent, Sony, ZOZOテクノロジーズ, SMNなどの国内企業と連携して、因果推論 x 機械学習領域の社会実装や理論と実践の溝を埋めるための研究を進めている。
+半熟仮想株式会社 科学統括。主に因果推論と機械学習の融合技術を用いたバンディットアルゴリズムのオフライン評価や推薦システムのバイアス除去に関する研究を行う。ICML, RecSys, SIGIR, WSDM, SDMなどの機械学習・データマイニングのトップ国際会議にてに査読付学術論文を発表。また、CyberAgent, Sony, ZOZOテクノロジーズ, SMNなどの国内企業と連携して、因果推論 x 機械学習領域の社会実装や理論と実践の溝を埋めるための研究を進めている。
 
 日本語の履歴書は[こちら](https://usaito.github.io/files/rireki.pdf)
 
@@ -72,6 +72,8 @@ RIETI Discussion Paper Series 20-J-045. <br>
 ## 招待講演
 
 ### 学術
+- [Tiger Talk Series at RMIT University](https://twitter.com/IR_oldie/status/1374905482444296193)
+- 東京大学松尾研究室セミナー
 - [第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)
 - [IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)
 
