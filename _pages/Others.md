@@ -21,7 +21,7 @@ author_profile: true
 ## Scholarships and Awards
 ---
 - [Funai Overseas Scholarship](https://www.funaifoundation.jp/english/english002.html)
-    Doctoral research fellowship by the Funai Foundation for Information Technology (FFIT). Granted two full years (2021-2023) of tuition plus a stipend of $2,500 a month for living expenses.
+    Doctoral research fellowship by the Funai Foundation (a private foundation in Japan). Granted two full years of tuition plus a monthly stipend of $3,000 for living expenses.
 - [The SIGIR 2020 Student Travel Grant Program](https://sigir.org/sigir2020/travel-grants/)
 
 ## Professional Service
