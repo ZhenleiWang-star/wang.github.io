@@ -13,7 +13,8 @@ author_profile: true
 日本語の履歴書は[こちら](https://usaito.github.io/files/rireki.pdf)
 
 ## News
-- [第3回 日本オープンイノベーション大賞 内閣総理大臣賞](https://www8.cao.go.jp/cstp/stmain/20210217joip.html)を受賞しました。
+-　東京工業大学工学院経営工学系の学士課程を修了しました（2021年3月）。
+- [第3回 日本オープンイノベーション大賞 内閣総理大臣賞](https://www8.cao.go.jp/cstp/stmain/20210217joip.html)を受賞しました（2021年2月）。
 - 2020年12月3-5日に開催された[第5回 統計・機械学習若手シンポジウム](https://sites.google.com/view/statsmlsymposium20/)で招待講演しました。
 - 2020年10月31日に開催された[IR Reading2020秋](https://sigir.jp/post/2020-10-31-irreading_2020fall/)で招待講演しました。
 - 2020年9月26日に開催された[REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)で口頭発表しました（[スライド](https://usaito.github.io/files/REVEAL2020_OpenBandit_slides.pdf)）。
