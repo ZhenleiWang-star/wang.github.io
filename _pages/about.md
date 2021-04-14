@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am an incoming computer science student at Cornell University where I will be co-advised by [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) and [Nathan Kallus](http://www.nathankallus.com/). I am also working with [Yusuke Narita](https://www.yusuke-narita.com/) (Yale University) and some tech companies in Tokyo for large-scale empirical studies. I recently completed by undergraduate in Industrial Engineering and Economics at the Tokyo Institute of Technology (TokyoTech).
+I am an incoming computer science Ph.D. student at Cornell University, where I will be co-advised by [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) and [Nathan Kallus](http://www.nathankallus.com/). I am also working with [Yusuke Narita](https://www.yusuke-narita.com/) (Yale University) and some tech companies in Tokyo for large-scale empirical studies. I recently completed by undergraduate in Industrial Engineering and Economics at the Tokyo Institute of Technology.
 
 My research lies at the intersection of machine learning and causal inference called _counterfactual learning_. I am interested in the counterfactual nature of logged bandit feedback and human behavior data obtained from interactive systems, and ways of using biased real-world datasets to assist safe and better decision making in the wild.
 
