@@ -8,7 +8,7 @@ author_profile: true
 # 齋藤優太 (Yuta Saito)
 
 ## プロフィール
-半熟仮想株式会社 科学統括。主に因果推論と機械学習の融合技術を用いたバンディットアルゴリズムのオフライン評価や推薦システムのバイアス除去に関する研究を行う。ICML, RecSys, SIGIR, WSDM, SDMなどの機械学習・データマイニングのトップ国際会議にてに査読付学術論文を発表。また、CyberAgent, Sony, ZOZOテクノロジーズ, SMNなどの国内企業と連携して、因果推論 x 機械学習領域の社会実装や理論と実践の溝を埋めるための研究を進めている。
+半熟仮想株式会社 科学統括。主に因果推論と機械学習の融合技術を用いたバンディットアルゴリズムのオフライン評価や推薦システムのバイアス除去に関する研究を行う。ICML, RecSys, SIGIR, WSDM, SDMなどの機械学習・データマイニングのトップ国際会議にてに査読付学術論文を発表。また、CyberAgent, Sony, ZOZOテクノロジーズ, SMNなどの国内企業と連携して、因果推論 x 機械学習領域の社会実装や理論と実践の溝を埋めるための研究を進めている。2021年9月に、コーネル大学コンピュータサイエンス専攻（博士課程）に入学予定。
 
 日本語の履歴書は[こちら](https://usaito.github.io/files/rireki.pdf)
 
@@ -20,14 +20,15 @@ author_profile: true
 - 2020年9月26日に開催された[REVEAL2020](https://sites.google.com/view/reveal2020/home?authuser=0)で口頭発表しました（[スライド](https://usaito.github.io/files/REVEAL2020_OpenBandit_slides.pdf)）。
 
 ## 研究領域
-- 反実仮想機械学習
+- 反実仮想学習/評価
   - オフ方策評価（バンディット・強化学習）
-  - 推薦システムのバイアス除去手法
+  - オフライン推薦学習
   - 不偏ランキング学習
 - 統計的因果推論
 - 統計的機械学習
 
 ## 学歴
+- 2021年9月：コーネル大学　コンピュータサイエンス専攻　博士課程　入学（予定）
 - 2021年3月：東京工業大学 工学院経営工学系 卒業
 - 2016年4月：東京工業大学 第4類 入学
 - 2016年3月：北海道立根室高等学校 卒業
@@ -90,6 +91,7 @@ RIETI Discussion Paper Series 20-J-045. <br>
 - サイバーエージェント: 2019年5月
 
 ## 査読
+- Neural Information Processing Systems (NeurIPS): [2021](https://nips.cc/Conferences/2021)
 - International Conference on Machine Learning (ICML): [2021](https://icml.cc/Conferences/2021)
 - International Conference on Artificial Intelligence and Statistics (AISTATS): [2021](http://www.aistats.org/aistats2021/)
 
@@ -114,7 +116,8 @@ RIETI Discussion Paper Series 20-J-045. <br>
 - Machine learning papers reading pitch: [第1回](https://machine-learning-pitch.connpass.com/event/127956/), [第3回](https://machine-learning-pitch.connpass.com/event/130999/), [第5回](https://machine-learning-pitch.connpass.com/event/137427/)
 
 ## 掲載
-- 「[ZOZO研究所、ZOZOTOWNのファッション推薦データとアルゴリズム研究開発基盤をオープンソースで公開](https://corp.zozo.com/news/20200818-11223/)」（プレスリリース）
+- 「[齋藤優太さんが第3回日本オープンイノベーション大賞「内閣総理大臣賞」を受賞](https://www.titech.ac.jp/news/2021/049294.html)」（東工大ニュース）
+-「[ZOZO研究所、ZOZOTOWNのファッション推薦データとアルゴリズム研究開発基盤をオープンソースで公開](https://corp.zozo.com/news/20200818-11223/)」（プレスリリース）
 - 「[AI Lab経済学チームの論文がKDD2020のワークショップ「AdKDD2020」に採択されました](https://www.cyberagent.co.jp/techinfo/news/detail/id=24978)」（ニュース）
 - 「[AI Lab、機械学習分野のトップカンファレンス「ICML」にて共著論文採択　ー リフトアップ効果を最大限高める、最適な予測モデルを選択する手法を提案 ー](https://www.cyberagent.co.jp/news/detail/id=24892)」（プレスリリース）
 - 「[推薦システム最適化アルゴリズム、「Relevance Matrix Factorization」を開発、Web Search and Data Mining（WSDM ’20）にて発表～学習データのバイアスに囚われず、ユーザーの興味に適したより幅広い商品推薦を実現～](https://www.so-netmedia.jp/topics/news-2020-pr_release_20200205/)」（プレスリリース）

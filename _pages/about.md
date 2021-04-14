@@ -9,28 +9,32 @@ redirect_from:
 ---
 
 # About Me
-I am a senior undergraduate student at Tokyo Institute of Technology. I am fortunate to be advised by [Prof. Yusuke Narita](https://www.yusuke-narita.com/) (Yale University) and [Prof. Nathan Kallus](http://www.nathankallus.com/) (Cornell Univeristy) during my undergrad study.
+I am an incoming computer science student at Cornell University where I will be co-advised by [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) and [Nathan Kallus](http://www.nathankallus.com/). I am also working with [Yusuke Narita](https://www.yusuke-narita.com/) (Yale University) and some tech companies in Tokyo for large-scale empirical studies. I recently completed by undergraduate in Industrial Engineering and Economics at the Tokyo Institute of Technology (TokyoTech).
 
-My research lies at the intersection of machine learning and causal inference called _counterfactual learning_.
-I am interested in the counterfactual nature of logged bandit feedback obtained from interactive systems, and ways of using biased real-world datasets to assist safe and better decision making in the wild.
+My research lies at the intersection of machine learning and causal inference called _counterfactual learning_. I am interested in the counterfactual nature of logged bandit feedback and human behavior data obtained from interactive systems, and ways of using biased real-world datasets to assist safe and better decision making in the wild.
 
 # Research Interests
 - Counterfactual Learning and Evaluation
     - Off-Policy Evaluation (Bandit / Reinforcement Learning)
-    - Offline Recommender Learning
-    - Unbiased Learning-to-Rank
-- Causal Inference
-- Information Retrieval
-- Statistical Learning Theory
+    - Heterogeneous  Causal Effect Prediction
+    - Offline Recommender Learning and Evaluation
+- Learning from Human Behavior Data
+- Statistical Machine Learning
 
-# Educations
-**April 2016 - March 2021**
-- Department of Industrial Engineering and Economics, Tokyo Institute of Technology
-- Research Interests: Counterfactual Learning, Causal Inference, Recommender Systems
+# Education
+**Cornell University** (2021-Present)
+- Incoming Ph.D. Student in the [Department of Computer Science](https://www.cs.cornell.edu/)
+- Advisors: [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) and [Nathan Kallus](http://www.nathankallus.com/)
+- Research Topics: Counterfactual Learning, Learning from Human Behavior Data
+
+**Tokyo Institute of Technology** (2016-2021)
+- B.Eng. in Industrial Engineering and Economics
+- Research Topics: Counterfactual Learning, Causal Inference, Recommender Systems
 
 # News
 - 2021.03: I made an invited talk on the Open Bandit Project at the Tiger Talk (RMIT University)
-- 2020.08: We release [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).
+- 2021.02: We released [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl), which is a collection of research and review papers for **offline reinforcement learning (offline rl)**.
+- 2020.08: We released [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).
 - 2020.07: My solo paper: "Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions" has been accepted by [RecSys2020](https://recsys.acm.org/recsys20/).
 - 2020.06: Our paper: "Unbiased Lift-based Bidding System" has been accepted by [AdKDD2020](https://www.adkdd.org/).
 - 2020.06: My solo paper: "Unbiased Pairwise Learning from Biased Implicit Feedback" has been accepted by [ICTIR2020](https://ictir2020.org).

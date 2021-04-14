@@ -27,6 +27,7 @@ author_profile: true
 ## Professional Service
 ---
 ### Conference Reviewing
+- Neural Information Processing Systems (NeurIPS): [2021](https://nips.cc/Conferences/2021)
 - International Conference on Machine Learning (ICML): [2021](https://icml.cc/Conferences/2021)
 - International Conference on Artificial Intelligence and Statistics (AISTATS): [2021](http://www.aistats.org/aistats2021/)
 
