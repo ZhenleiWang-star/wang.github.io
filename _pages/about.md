@@ -22,14 +22,14 @@ My research lies at the intersection of machine learning and causal inference ca
 - Statistical Machine Learning
 
 # Education
-**Cornell University** (2021-Present)
-- Incoming Ph.D. Student in the [Department of Computer Science](https://www.cs.cornell.edu/)
-- Advisors: [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) and [Nathan Kallus](http://www.nathankallus.com/)
-- Research Topics: Counterfactual Learning, Learning from Human Behavior Data
+- **Cornell University** (2021-2026)
+  - Incoming Ph.D. Student in the [Department of Computer Science](https://www.cs.cornell.edu/)
+  - Advisors: [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) and [Nathan Kallus](http://www.nathankallus.com/)
+  - Research Topics: Counterfactual Learning, Learning from Human Behavior Data
 
-**Tokyo Institute of Technology** (2016-2021)
-- B.Eng. in Industrial Engineering and Economics
-- Research Topics: Counterfactual Learning, Causal Inference, Recommender Systems
+- **Tokyo Institute of Technology** (2016-2021)
+  - B.Eng. in Industrial Engineering and Economics
+  - Research Topics: Counterfactual Learning, Causal Inference, Recommender Systems
 
 # News
 - 2021.03: I made an invited talk on the Open Bandit Project at the Tiger Talk (RMIT University)
