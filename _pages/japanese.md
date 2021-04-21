@@ -29,7 +29,7 @@ author_profile: true
 
 ## 学歴
 - 2021年9月：コーネル大学　コンピュータサイエンス専攻　博士課程　入学（予定）
-- 2021年3月：東京工業大学 工学院　経営工学系 卒業
+- 2021年3月：東京工業大学 工学院 経営工学系 卒業
 - 2016年4月：東京工業大学 第4類 入学
 - 2016年3月：北海道立根室高等学校 卒業
 
@@ -117,7 +117,7 @@ RIETI Discussion Paper Series 20-J-045. <br>
 
 ## 掲載
 - 「[齋藤優太さんが第3回日本オープンイノベーション大賞「内閣総理大臣賞」を受賞](https://www.titech.ac.jp/news/2021/049294.html)」（東工大ニュース）
--「[ZOZO研究所、ZOZOTOWNのファッション推薦データとアルゴリズム研究開発基盤をオープンソースで公開](https://corp.zozo.com/news/20200818-11223/)」（プレスリリース）
+- 「[ZOZO研究所、ZOZOTOWNのファッション推薦データとアルゴリズム研究開発基盤をオープンソースで公開](https://corp.zozo.com/news/20200818-11223/)」（プレスリリース）
 - 「[AI Lab経済学チームの論文がKDD2020のワークショップ「AdKDD2020」に採択されました](https://www.cyberagent.co.jp/techinfo/news/detail/id=24978)」（ニュース）
 - 「[AI Lab、機械学習分野のトップカンファレンス「ICML」にて共著論文採択　ー リフトアップ効果を最大限高める、最適な予測モデルを選択する手法を提案 ー](https://www.cyberagent.co.jp/news/detail/id=24892)」（プレスリリース）
 - 「[推薦システム最適化アルゴリズム、「Relevance Matrix Factorization」を開発、Web Search and Data Mining（WSDM ’20）にて発表～学習データのバイアスに囚われず、ユーザーの興味に適したより幅広い商品推薦を実現～](https://www.so-netmedia.jp/topics/news-2020-pr_release_20200205/)」（プレスリリース）
