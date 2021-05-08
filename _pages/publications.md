@@ -6,17 +6,16 @@ author_profile: true
 ---
 
 ## Preprints
-1. Nathan Kallus, <u>Yuta Saito</u>, and Masatoshi Uehara. <br>
-**Optimal Off-Policy Evaluation from Multiple Logging Policies** <br>
-_arXiv preprint arXiv:2010.11002_, 2020. <br>
-[[arXiv](https://arxiv.org/abs/2010.11002)] [[code](https://github.com/CausalML/MultipleLoggers)]
-
-2. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
+1. <u>Yuta Saito</u>, Shunsuke Aihara, Megumi Matsutani, and Yusuke Narita. <br>
 **Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation**  <br>
 _arXiv preprint arXiv:2008.07146_, 2020. <br>
 [[arXiv](https://arxiv.org/abs/2008.07146)] [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
 
 ## International Conference Proceedings (refereed)
+1. Nathan Kallus, <u>Yuta Saito</u>, and Masatoshi Uehara. <br>
+**Optimal Off-Policy Evaluation from Multiple Logging Policies** <br>
+_International Conference on Machine Learning ([ICML2021](https://icml.cc/Conferences/2021))_. (Acceptance rate=21.5%)<br>
+[[arXiv](https://arxiv.org/abs/2010.11002)] [[code](https://github.com/CausalML/MultipleLoggers)]
 
 1. <u>Yuta Saito</u>. <br>
 **Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions** <br>
@@ -25,12 +24,12 @@ _ACM Conference on Recommender Systems ([RecSys2020](https://recsys.acm.org/recs
 
 1. <u>Yuta Saito</u>. <br>
 **Unbiased Pairwise Learning from Biased Implicit Feedback** <br>
-_International Conference on the Theory of Information Retrieval ([ICTIR2020](https://ictir2020.org/))_.  (Acceptance rate=40.5%) <br>
+_International Conference on the Theory of Information Retrieval ([ICTIR2020](https://ictir2020.org/))_. (Acceptance rate=40.5%) <br>
 [[paper](https://dl.acm.org/doi/10.1145/3409256.3409812)] [[code](https://github.com/usaito/unbiased-pairwise-rec)] <br>
 
 1. <u>Yuta Saito</u> and Shota Yasui. <br>
 **Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models** <br>
-_International Conference on Machine Learning ([ICML2020](https://icml.cc/))_. (Acceptance rate=21.8%)<br>
+_International Conference on Machine Learning ([ICML2020](https://icml.cc/Conferences/2020))_. (Acceptance rate=21.8%) <br>
 [[paper](http://proceedings.mlr.press/v119/saito20a.html)] [[code](https://github.com/usaito/counterfactual-cv)] [[slides](https://usaito.github.io/files/ICML2020_CFCV_slides.pdf)] <br>
 
 1. <u>Yuta Saito</u>. <br>

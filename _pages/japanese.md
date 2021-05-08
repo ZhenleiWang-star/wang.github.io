@@ -37,6 +37,10 @@ author_profile: true
 ## 論文
 
 ### 英語 (selected)
+1. Nathan Kallus, <u>Yuta Saito</u>, and Masatoshi Uehara. <br>
+**Optimal Off-Policy Evaluation from Multiple Logging Policies** <br>
+_International Conference on Machine Learning ([ICML2021](https://icml.cc/Conferences/2021))_. (Acceptance rate=21.5%)<br>
+[[arXiv](https://arxiv.org/abs/2010.11002)] [[code](https://github.com/CausalML/MultipleLoggers)]
 
 1. <u>Yuta Saito</u>. <br>
 **Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions**. <br>

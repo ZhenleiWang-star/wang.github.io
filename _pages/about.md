@@ -32,12 +32,12 @@ My research lies at the intersection of machine learning and causal inference ca
   - Research Topics: Counterfactual Learning, Causal Inference, Recommender Systems
 
 # News
-- 2021.03: I made an invited talk on the Open Bandit Project at the Tiger Talk (RMIT University)
+- 2020.05: Our paper: "Optimal Off-Policy Evaluation from Multiple Logging Policies" has been accepted by [ICML2021](https://icml.cc/Conferences/2021).
+- 2021.03: I made an invited talk about the [Open Bandit Project](https://github.com/st-tech/zr-obp) at the Tiger Talk (RMIT University)
 - 2021.02: We released [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl), which is a collection of research and review papers for **offline reinforcement learning (offline rl)**.
 - 2020.08: We released [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).
 - 2020.07: My solo paper: "Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions" has been accepted by [RecSys2020](https://recsys.acm.org/recsys20/).
 - 2020.06: Our paper: "Unbiased Lift-based Bidding System" has been accepted by [AdKDD2020](https://www.adkdd.org/).
-- 2020.06: My solo paper: "Unbiased Pairwise Learning from Biased Implicit Feedback" has been accepted by [ICTIR2020](https://ictir2020.org).
-- 2020.06: Our paper: "Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models" has been accepted by [ICML2020](https://icml.cc/).
+- 2020.06: Our paper: "Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models" has been accepted by [ICML2020](https://icml.cc/Conferences/2020).
 - 2020.04: My solo paper: "Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback" has been accepted by [SIGIR2020](https://sigir.org/sigir2020/).
 - 2019.10: Our paper "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback" has been accepted by [WSDM2020](http://www.wsdm-conference.org/2020/).
