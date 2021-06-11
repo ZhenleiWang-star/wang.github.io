@@ -11,6 +11,13 @@ author_profile: true
 _arXiv preprint arXiv:2008.07146_, 2020. <br>
 [[arXiv](https://arxiv.org/abs/2008.07146)] [[software](https://github.com/st-tech/zr-obp)] [[public dataset](https://research.zozo.com/data.html)]
 
+## Tutorials
+
+1. <u>Yuta Saito</u> and Thorsten Joachims. <br>
+**Offline Evaluation and Learning for Recommender Systems: Foundations, Implementations, and Recent Advances** <br>
+_ACM Conference on Recommender Systems ([RecSys2021](https://recsys.acm.org/recsys21/))_. <br>
+[[website]] [[slides]] [[proposal]]
+
 ## International Conference Proceedings (refereed)
 1. Nathan Kallus, <u>Yuta Saito</u>, and Masatoshi Uehara. <br>
 **Optimal Off-Policy Evaluation from Multiple Logging Policies** <br>

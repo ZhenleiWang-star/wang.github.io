@@ -28,7 +28,7 @@ author_profile: true
 - 統計的機械学習
 
 ## 学歴
-- 2021年9月：コーネル大学　コンピュータサイエンス専攻　博士課程　入学（予定）
+- 2021年9月：コーネル大学 コンピュータサイエンス専攻 博士課程 入学（予定）
 - 2021年3月：東京工業大学 工学院 経営工学系 卒業
 - 2016年4月：東京工業大学 第4類 入学
 - 2016年3月：北海道立根室高等学校 卒業
@@ -95,9 +95,10 @@ RIETI Discussion Paper Series 20-J-045. <br>
 - サイバーエージェント: 2019年5月
 
 ## 査読
-- Neural Information Processing Systems (NeurIPS): [2021](https://nips.cc/Conferences/2021)
-- International Conference on Machine Learning (ICML): [2021](https://icml.cc/Conferences/2021)
-- International Conference on Artificial Intelligence and Statistics (AISTATS): [2021](http://www.aistats.org/aistats2021/)
+- WSDM: [2022](https://www.wsdm-conference.org/2022/)
+- NeurIPS: [2021](https://nips.cc/Conferences/2021)
+- ICML: [2021](https://icml.cc/Conferences/2021)
+- AISTATS: [2021](http://www.aistats.org/aistats2021/)
 
 ## オープンソースプロジェクト
 

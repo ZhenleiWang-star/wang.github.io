@@ -32,7 +32,8 @@ My research lies at the intersection of machine learning and causal inference ca
   - Research Topics: Counterfactual Learning, Causal Inference, Recommender Systems
 
 # News
-- 2020.05: Our paper: "Optimal Off-Policy Evaluation from Multiple Logging Policies" has been accepted by [ICML2021](https://icml.cc/Conferences/2021).
+- 2021.06: Our tutorial proposal: "Offline Evaluation and Learning for Recommender Systems: Foundations, Implementations, and Recent Advances" has been accepted by [RecSys2021](https://recsys.acm.org/recsys21/).
+- 2021.05: Our paper: "Optimal Off-Policy Evaluation from Multiple Logging Policies" has been accepted by [ICML2021](https://icml.cc/Conferences/2021).
 - 2021.03: I made an invited talk about the [Open Bandit Project](https://github.com/st-tech/zr-obp) at the Tiger Talk (RMIT University)
 - 2021.02: We released [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl), which is a collection of research and review papers for **offline reinforcement learning (offline rl)**.
 - 2020.08: We released [Open Bandit Dataset](https://research.zozo.com/data.html) (a large-scale dataset for bandit algorithms) and [Open Bandit Pipeline](https://github.com/st-tech/zr-obp) (python package for bandit algorithms and off-policy evaluation).
