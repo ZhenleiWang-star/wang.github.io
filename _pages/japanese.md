@@ -37,6 +37,12 @@ author_profile: true
 ## 論文
 
 ### 英語 (selected)
+1. <u>Yuta Saito</u> and Thorsten Joachims. <br>
+**Counterfactual Evaluation and Learning for Recommender Systems:**<br>
+**Foundations, Implementations, and Recent Advances (Tutorial Proposal)** <br>
+_ACM Conference on Recommender Systems ([RecSys2021](https://recsys.acm.org/recsys21/))_. <br>
+[website] [slides] [proposal]
+
 1. Nathan Kallus, <u>Yuta Saito</u>, and Masatoshi Uehara. <br>
 **Optimal Off-Policy Evaluation from Multiple Logging Policies** <br>
 _International Conference on Machine Learning ([ICML2021](https://icml.cc/Conferences/2021))_. (Acceptance rate=21.5%)<br>
@@ -96,7 +102,8 @@ RIETI Discussion Paper Series 20-J-045. <br>
 
 ## 査読
 - WSDM: [2022](https://www.wsdm-conference.org/2022/)
-- NeurIPS: [2021](https://nips.cc/Conferences/2021)
+- NeurIPS (main track): [2021](https://nips.cc/Conferences/2021)
+- NeurIPS (datasets\&benchmarks track): [2021](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks)
 - ICML: [2021](https://icml.cc/Conferences/2021)
 - AISTATS: [2021](http://www.aistats.org/aistats2021/)
 
