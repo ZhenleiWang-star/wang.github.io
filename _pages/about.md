@@ -12,12 +12,10 @@ redirect_from:
 I am studying for a Ph.D. in Gaoling School of Artificial Intelligence at Renmin University of China, where I am advised by [Xu Chen](http://xu-chen.com/). 
 
 # Research Interests
-- Counterfactual Learning and Evaluation
-    - Off-Policy Evaluation (Bandit / Reinforcement Learning)
-    - Heterogeneous Treatment Effect Prediction
-    - Offline Recommender Learning and Evaluation
-- Learning from Human Behavior Data
-- Statistical Machine Learning
+- Recommendation System
+    - Sequential Recommendation System
+    - General Recommendation System
+- Causal Inference
 
 # Education
 - **Renmin University Of China** (2020-2024)
