@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuta Saito"
+title                    : "Zhenlei Wang"
 title_separator          : "-"
 name                     : &name "Yuta Saito"
 description              : &description "Incoming CS Ph.D. Student at Cornell University"
-url                      : https://usaito.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "usaito.github.io"
+repository               : "ZhenleiWang-star/wang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
