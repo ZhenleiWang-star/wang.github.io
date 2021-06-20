@@ -19,13 +19,16 @@ I am studying for a Ph.D. in Gaoling School of Artificial Intelligence at Renmin
 
 # Education
 - **Renmin University Of China** (2020-2024)
-  - Incoming Ph.D. Student in the [Department of Computer Science](https://www.cs.cornell.edu/)
-  - Advisors: [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) and [Nathan Kallus](http://www.nathankallus.com/)
-  - Research Topics: Counterfactual Learning, Learning from Human Behavior Data
+  - Incoming Ph.D. Student in the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
+  - Advisors: [Xu Chen](http://xu-chen.com/)
+  - Research Topics: Recommendation System, Causal Inference
 
 - **Renmin University Of China** (2017-2020)
-  - B.Eng. in Industrial Engineering and Economics
+  - Software Eng 
   - Research Topics: Counterfactual Learning, Causal Inference, Recommender Systems
+
+- **Communication University of Zhejiang** (2017-2020)
+  - B.Eng. in Industrial Engineering and Economics
 
 # News
 --2021-04-15 One paper on recommender system got accepted by SIGIR 2021.
