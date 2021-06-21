@@ -19,3 +19,5 @@ _Pattern Recognition ([PR2021](www.elsevier.com/locate/patcog))_. <br>
 **Fuzzy Rough Based Feature Selection by Using Random Sampling** <br>
 _Pacific Rim International Conference on Artificial Intelligence([PRICAI2018](https://www.springer.com/cn/book/9783319973036))_. <br>
 
+
+## Journals
