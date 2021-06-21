@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Others"
-    url: /others/
-
+    
   - title: "Awards"
     url: /awards/
     
   - title: "Contact"
     url: /contact/
+    
+ - title: "Others"
+    url: /others/
