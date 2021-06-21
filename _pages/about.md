@@ -28,7 +28,7 @@ I am studying for a Ph.D. in Gaoling School of Artificial Intelligence at Renmin
   - Advisor: [XuYun Zhao](http://rucfd.ruc.edu.cn/)
   - Research Topics: Feature selection, Ensemble Learning
 
-- **Communication University of Zhejiang** (2017-2020)
+- **Communication University of Zhejiang** (2013-2017)
   - Digital Media Art in School of Animation and Digital Arts
 
 # News
