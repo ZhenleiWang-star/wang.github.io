@@ -18,4 +18,4 @@ _Pattern Recognition ([PR2021](www.elsevier.com/locate/patcog))_. <br>
 3. <u>Zhenlei Wang</u>, Suyun Zhao, Liu Yangming, Hong Chen, Cuiping Li and  Sun Xiran. <br>
 **Fuzzy Rough Based Feature Selection by Using Random Sampling** <br>
 _Pacific Rim International Conference on Artificial Intelligence([PRICAI2018](https://www.springer.com/cn/book/9783319973036))_. <br>
-Fuzzy Rough Based Feature Selection by Using Random Sampling
+
