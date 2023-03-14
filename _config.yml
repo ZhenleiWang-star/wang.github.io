@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhenlei Wang"
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "Incoming CS Ph.D. Student at Renmin University Of China"
   location         : "Beijing, China"
   employer         :
